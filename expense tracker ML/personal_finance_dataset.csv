@@ -1,0 +1,701 @@
+transaction_id,date,month,month_number,year,account_type,transaction_type,category,subcategory,merchant,payment_method,amount,income_or_expense,needs_wants_savings,recurring,notes
+TXN0001,2026-01-01 00:00:00,January,1,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2747.69,Income,Income,Yes,Recurring paycheck
+TXN0002,2026-01-02 00:00:00,January,1,2026,Checking,Withdrawal,Housing,Rent,Apartment Rent,Bank Transfer,1608.77,Expense,Needs,Yes,Monthly rent
+TXN0003,2026-01-02 00:00:00,January,1,2026,Checking,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Bank Transfer,467.15,Expense,Needs,Yes,Recurring expense
+TXN0004,2026-01-02 00:00:00,January,1,2026,Checking,Withdrawal,Entertainment,Events,Concert Venue,Digital Wallet,50.6,Expense,Wants,No,Variable transaction
+TXN0005,2026-01-03 00:00:00,January,1,2026,Credit Card,Withdrawal,Utilities,Internet,Internet Provider,Credit Card,77.3,Expense,Needs,Yes,Monthly internet bill
+TXN0006,2026-01-04 00:00:00,January,1,2026,Credit Card,Withdrawal,Subscriptions,Streaming,MaxPlay,Credit Card,10.65,Expense,Wants,Yes,Monthly streaming subscription
+TXN0007,2026-01-04 00:00:00,January,1,2026,Credit Card,Withdrawal,Dining Out,Coffee,Dunkin,Credit Card,4.51,Expense,Wants,No,Variable transaction
+TXN0008,2026-01-04 00:00:00,January,1,2026,Credit Card,Withdrawal,Miscellaneous,Fees,Bank Fee,Credit Card,7.51,Expense,Wants,No,Variable transaction
+TXN0009,2026-01-04 00:00:00,January,1,2026,Credit Card,Withdrawal,Dining Out,Coffee,Dunkin,Credit Card,13.52,Expense,Wants,No,Variable transaction
+TXN0010,2026-01-05 00:00:00,January,1,2026,Checking,Withdrawal,Groceries,Household Supplies,Target,Digital Wallet,69.44,Expense,Needs,No,Variable transaction
+TXN0011,2026-01-06 00:00:00,January,1,2026,Credit Card,Withdrawal,Groceries,Groceries,Costco,Credit Card,137.57,Expense,Needs,No,Variable transaction
+TXN0012,2026-01-06 00:00:00,January,1,2026,Checking,Withdrawal,Transportation,Rideshare,Lyft,Debit Card,25.18,Expense,Needs,No,Variable transaction
+TXN0013,2026-01-06 00:00:00,January,1,2026,Checking,Withdrawal,Shopping,Clothing,Nike,Bank Transfer,152.09,Expense,Wants,No,Variable transaction
+TXN0014,2026-01-07 00:00:00,January,1,2026,Checking,Withdrawal,Health,Pharmacy,CVS,Bank Transfer,44.11,Expense,Needs,No,Variable transaction
+TXN0015,2026-01-07 00:00:00,January,1,2026,Credit Card,Withdrawal,Entertainment,Events,Ticket Seller,Credit Card,119.47,Expense,Wants,No,Variable transaction
+TXN0016,2026-01-07 00:00:00,January,1,2026,Checking,Withdrawal,Health,Pharmacy,CVS,Debit Card,20.5,Expense,Needs,No,Variable transaction
+TXN0017,2026-01-08 00:00:00,January,1,2026,Checking,Withdrawal,Utilities,Electric,Electric Utility,Bank Transfer,149.44,Expense,Needs,Yes,Monthly electric bill
+TXN0018,2026-01-08 00:00:00,January,1,2026,Checking,Withdrawal,Transportation,Gas,Wawa,Debit Card,60.18,Expense,Needs,No,Variable transaction
+TXN0019,2026-01-09 00:00:00,January,1,2026,Checking,Withdrawal,Dining Out,Fast Food,Chipotle,Bank Transfer,17.92,Expense,Wants,No,Variable transaction
+TXN0020,2026-01-10 00:00:00,January,1,2026,Credit Card,Withdrawal,Utilities,Phone,Mobile Carrier,Credit Card,86.65,Expense,Needs,Yes,Monthly phone bill
+TXN0021,2026-01-11 00:00:00,January,1,2026,Credit Card,Withdrawal,Entertainment,Gaming,PlayStation Store,Credit Card,63.42,Expense,Wants,No,Variable transaction
+TXN0022,2026-01-11 00:00:00,January,1,2026,Checking,Withdrawal,Shopping,Clothing,Target,Digital Wallet,96.95,Expense,Wants,No,Variable transaction
+TXN0023,2026-01-11 00:00:00,January,1,2026,Checking,Withdrawal,Health,Doctor,Clinic,Bank Transfer,117.2,Expense,Needs,No,Variable transaction
+TXN0024,2026-01-11 00:00:00,January,1,2026,Credit Card,Withdrawal,Shopping,Clothing,H&M,Credit Card,71.04,Expense,Wants,No,Variable transaction
+TXN0025,2026-01-11 00:00:00,January,1,2026,Checking,Withdrawal,Groceries,Household Supplies,Walmart,Bank Transfer,87.13,Expense,Needs,No,Variable transaction
+TXN0026,2026-01-12 00:00:00,January,1,2026,Checking,Withdrawal,Groceries,Household Supplies,Target,Debit Card,51.7,Expense,Needs,No,Variable transaction
+TXN0027,2026-01-13 00:00:00,January,1,2026,Credit Card,Withdrawal,Shopping,Personal Items,Walgreens,Credit Card,69.52,Expense,Wants,No,Variable transaction
+TXN0028,2026-01-13 00:00:00,January,1,2026,Credit Card,Withdrawal,Groceries,Household Supplies,Walmart,Credit Card,58.0,Expense,Needs,No,Variable transaction
+TXN0029,2026-01-14 00:00:00,January,1,2026,Checking,Withdrawal,Shopping,Clothing,Amazon,Bank Transfer,145.23,Expense,Wants,No,Variable transaction
+TXN0030,2026-01-14 00:00:00,January,1,2026,Checking,Withdrawal,Groceries,Household Supplies,Walmart,Debit Card,22.24,Expense,Needs,No,Variable transaction
+TXN0031,2026-01-15 00:00:00,January,1,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2317.6,Income,Income,Yes,Recurring paycheck
+TXN0032,2026-01-15 00:00:00,January,1,2026,Checking,Withdrawal,Shopping,Electronics,Apple,Bank Transfer,292.69,Expense,Wants,No,Variable transaction
+TXN0033,2026-01-15 00:00:00,January,1,2026,Credit Card,Withdrawal,Transportation,Rideshare,Uber,Credit Card,35.03,Expense,Needs,No,Variable transaction
+TXN0034,2026-01-16 00:00:00,January,1,2026,Credit Card,Withdrawal,Subscriptions,Music,Spotify,Credit Card,11.48,Expense,Wants,Yes,Monthly music subscription
+TXN0035,2026-01-16 00:00:00,January,1,2026,Credit Card,Withdrawal,Dining Out,Fast Food,Chipotle,Credit Card,24.24,Expense,Wants,No,Variable transaction
+TXN0036,2026-01-18 00:00:00,January,1,2026,Checking,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Bank Transfer,587.68,Expense,Needs,Yes,Monthly credit card payment
+TXN0037,2026-01-18 00:00:00,January,1,2026,Checking,Withdrawal,Groceries,Household Supplies,Target,Debit Card,85.01,Expense,Needs,No,Variable transaction
+TXN0038,2026-01-19 00:00:00,January,1,2026,Checking,Withdrawal,Subscriptions,Gaming,PlayStation Plus,Cash,14.64,Expense,Wants,No,Recurring expense
+TXN0039,2026-01-19 00:00:00,January,1,2026,Credit Card,Withdrawal,Transportation,Gas,Shell,Credit Card,59.14,Expense,Needs,No,Variable transaction
+TXN0040,2026-01-20 00:00:00,January,1,2026,Credit Card,Withdrawal,Transportation,Auto Maintenance,Tire Center,Credit Card,232.67,Expense,Needs,No,Variable transaction
+TXN0041,2026-01-20 00:00:00,January,1,2026,Credit Card,Withdrawal,Health,Pharmacy,CVS,Credit Card,62.19,Expense,Needs,No,Variable transaction
+TXN0042,2026-01-20 00:00:00,January,1,2026,Checking,Withdrawal,Groceries,Groceries,Costco,Cash,62.08,Expense,Needs,No,Variable transaction
+TXN0043,2026-01-20 00:00:00,January,1,2026,Checking,Withdrawal,Health,Pharmacy,Walgreens,Bank Transfer,15.3,Expense,Needs,No,Variable transaction
+TXN0044,2026-01-21 00:00:00,January,1,2026,Checking,Withdrawal,Debt Payment,Loan Payment,Loan Servicer,Digital Wallet,199.87,Expense,Needs,Yes,Recurring expense
+TXN0045,2026-01-21 00:00:00,January,1,2026,Checking,Withdrawal,Dining Out,Fast Food,Taco Bell,Debit Card,27.65,Expense,Wants,No,Variable transaction
+TXN0046,2026-01-22 00:00:00,January,1,2026,Checking,Withdrawal,Dining Out,Restaurant,Burger House,Bank Transfer,49.02,Expense,Wants,No,Variable transaction
+TXN0047,2026-01-22 00:00:00,January,1,2026,Checking,Deposit,Side Income,Freelance,Freelance Client,Direct Deposit,475.71,Income,Income,No,Variable income or refund
+TXN0048,2026-01-22 00:00:00,January,1,2026,Credit Card,Withdrawal,Groceries,Groceries,Walmart Grocery,Credit Card,37.46,Expense,Needs,No,Variable transaction
+TXN0049,2026-01-23 00:00:00,January,1,2026,Checking,Withdrawal,Groceries,Household Supplies,Target,Debit Card,35.55,Expense,Needs,No,Variable transaction
+TXN0050,2026-01-24 00:00:00,January,1,2026,Credit Card,Withdrawal,Housing,Renters Insurance,Insurance Co.,Credit Card,26.89,Expense,Needs,Yes,Monthly renters insurance
+TXN0051,2026-01-24 00:00:00,January,1,2026,Savings,Withdrawal,Savings,Emergency Fund,Savings Transfer,Bank Transfer,223.09,Expense,Savings,Yes,Monthly savings transfer
+TXN0052,2026-01-24 00:00:00,January,1,2026,Checking,Withdrawal,Entertainment,Movies,Online Rental,Bank Transfer,19.06,Expense,Wants,No,Variable transaction
+TXN0053,2026-01-25 00:00:00,January,1,2026,Credit Card,Withdrawal,Groceries,Household Supplies,Target,Credit Card,37.18,Expense,Needs,No,Variable transaction
+TXN0054,2026-01-25 00:00:00,January,1,2026,Credit Card,Deposit,Refund,Cash Back,Credit Card Rewards,Credit Card,145.93,Income,Income,No,Variable income or refund
+TXN0055,2026-01-26 00:00:00,January,1,2026,Credit Card,Withdrawal,Health,Fitness,Gym Membership,Credit Card,25.46,Expense,Needs,Yes,Monthly gym membership
+TXN0056,2026-01-26 00:00:00,January,1,2026,Checking,Withdrawal,Dining Out,Restaurant,Burger House,Digital Wallet,28.11,Expense,Wants,No,Variable transaction
+TXN0057,2026-01-26 00:00:00,January,1,2026,Credit Card,Withdrawal,Shopping,Personal Items,Walgreens,Credit Card,20.95,Expense,Wants,No,Variable transaction
+TXN0058,2026-01-29 00:00:00,January,1,2026,Checking,Withdrawal,Debt Payment,Loan Payment,Loan Servicer,Debit Card,303.52,Expense,Needs,Yes,Recurring expense
+TXN0059,2026-01-31 00:00:00,January,1,2026,Credit Card,Withdrawal,Groceries,Groceries,Publix,Credit Card,102.43,Expense,Needs,No,Variable transaction
+TXN0060,2026-02-01 00:00:00,February,2,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2553.91,Income,Income,Yes,Recurring paycheck
+TXN0061,2026-02-02 00:00:00,February,2,2026,Credit Card,Withdrawal,Subscriptions,Streaming,MaxPlay,Credit Card,7.97,Expense,Wants,Yes,Monthly streaming subscription
+TXN0062,2026-02-02 00:00:00,February,2,2026,Credit Card,Withdrawal,Groceries,Groceries,Costco,Credit Card,137.21,Expense,Needs,No,Variable transaction
+TXN0063,2026-02-02 00:00:00,February,2,2026,Credit Card,Withdrawal,Transportation,Rideshare,Uber,Credit Card,49.41,Expense,Needs,No,Variable transaction
+TXN0064,2026-02-03 00:00:00,February,2,2026,Credit Card,Withdrawal,Utilities,Phone,Mobile Carrier,Credit Card,79.01,Expense,Needs,Yes,Monthly phone bill
+TXN0065,2026-02-03 00:00:00,February,2,2026,Savings,Transfer,Savings,Emergency Fund,Savings Transfer,Debit Card,394.13,Expense,Savings,Yes,Recurring expense
+TXN0066,2026-02-03 00:00:00,February,2,2026,Credit Card,Withdrawal,Miscellaneous,Gifts,Gift Shop,Credit Card,90.94,Expense,Wants,No,Variable transaction
+TXN0067,2026-02-04 00:00:00,February,2,2026,Checking,Withdrawal,Groceries,Household Supplies,Walmart,Debit Card,79.18,Expense,Needs,No,Variable transaction
+TXN0068,2026-02-04 00:00:00,February,2,2026,Credit Card,Withdrawal,Entertainment,Gaming,Steam,Credit Card,77.04,Expense,Wants,No,Variable transaction
+TXN0069,2026-02-04 00:00:00,February,2,2026,Checking,Deposit,Side Income,Freelance,Freelance Client,Direct Deposit,406.85,Income,Income,No,Variable income or refund
+TXN0070,2026-02-05 00:00:00,February,2,2026,Credit Card,Withdrawal,Utilities,Internet,Internet Provider,Credit Card,94.43,Expense,Needs,Yes,Monthly internet bill
+TXN0071,2026-02-05 00:00:00,February,2,2026,Checking,Withdrawal,Health,Fitness,Gym Membership,Debit Card,33.6,Expense,Needs,Yes,Recurring expense
+TXN0072,2026-02-05 00:00:00,February,2,2026,Checking,Withdrawal,Transportation,Rideshare,Uber,Debit Card,32.42,Expense,Needs,No,Variable transaction
+TXN0073,2026-02-05 00:00:00,February,2,2026,Checking,Withdrawal,Groceries,Groceries,Publix,Debit Card,118.05,Expense,Needs,No,Variable transaction
+TXN0074,2026-02-06 00:00:00,February,2,2026,Checking,Withdrawal,Transportation,Gas,Wawa,Bank Transfer,32.26,Expense,Needs,No,Variable transaction
+TXN0075,2026-02-06 00:00:00,February,2,2026,Credit Card,Withdrawal,Entertainment,Gaming,PlayStation Store,Credit Card,20.3,Expense,Wants,No,Variable transaction
+TXN0076,2026-02-07 00:00:00,February,2,2026,Checking,Withdrawal,Groceries,Household Supplies,Costco,Debit Card,20.76,Expense,Needs,No,Variable transaction
+TXN0077,2026-02-07 00:00:00,February,2,2026,Checking,Withdrawal,Shopping,Electronics,Best Buy,Bank Transfer,384.28,Expense,Wants,No,Variable transaction
+TXN0078,2026-02-08 00:00:00,February,2,2026,Checking,Withdrawal,Dining Out,Coffee,Local Cafe,Bank Transfer,8.5,Expense,Wants,No,Variable transaction
+TXN0079,2026-02-09 00:00:00,February,2,2026,Checking,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Bank Transfer,558.9,Expense,Needs,Yes,Monthly credit card payment
+TXN0080,2026-02-09 00:00:00,February,2,2026,Credit Card,Withdrawal,Groceries,Groceries,Walmart Grocery,Credit Card,88.74,Expense,Needs,No,Variable transaction
+TXN0081,2026-02-09 00:00:00,February,2,2026,Credit Card,Withdrawal,Dining Out,Fast Food,Taco Bell,Credit Card,17.12,Expense,Wants,No,Variable transaction
+TXN0082,2026-02-09 00:00:00,February,2,2026,Credit Card,Withdrawal,Dining Out,Coffee,Starbucks,Credit Card,7.01,Expense,Wants,No,Variable transaction
+TXN0083,2026-02-09 00:00:00,February,2,2026,Checking,Withdrawal,Groceries,Household Supplies,Costco,Debit Card,17.37,Expense,Needs,No,Variable transaction
+TXN0084,2026-02-10 00:00:00,February,2,2026,Credit Card,Withdrawal,Housing,Renters Insurance,Insurance Co.,Credit Card,21.3,Expense,Needs,Yes,Monthly renters insurance
+TXN0085,2026-02-10 00:00:00,February,2,2026,Checking,Withdrawal,Transportation,Auto Maintenance,Tire Center,Debit Card,189.13,Expense,Needs,No,Variable transaction
+TXN0086,2026-02-10 00:00:00,February,2,2026,Credit Card,Withdrawal,Health,Doctor,Medical Office,Credit Card,137.77,Expense,Needs,No,Variable transaction
+TXN0087,2026-02-10 00:00:00,February,2,2026,Savings,Transfer,Savings,Investments,Brokerage Transfer,Debit Card,348.84,Expense,Savings,No,Variable transaction
+TXN0088,2026-02-11 00:00:00,February,2,2026,Checking,Withdrawal,Dining Out,Fast Food,Chick-fil-A,Bank Transfer,19.98,Expense,Wants,No,Variable transaction
+TXN0089,2026-02-11 00:00:00,February,2,2026,Checking,Withdrawal,Groceries,Household Supplies,Target,Digital Wallet,48.87,Expense,Needs,No,Variable transaction
+TXN0090,2026-02-11 00:00:00,February,2,2026,Checking,Withdrawal,Transportation,Rideshare,Uber,Debit Card,37.14,Expense,Needs,No,Variable transaction
+TXN0091,2026-02-11 00:00:00,February,2,2026,Checking,Withdrawal,Transportation,Gas,Chevron,Debit Card,35.33,Expense,Needs,No,Variable transaction
+TXN0092,2026-02-12 00:00:00,February,2,2026,Checking,Withdrawal,Utilities,Electric,Electric Utility,Bank Transfer,89.32,Expense,Needs,Yes,Monthly electric bill
+TXN0093,2026-02-12 00:00:00,February,2,2026,Credit Card,Withdrawal,Subscriptions,Music,Apple Music,Credit Card,9.49,Expense,Wants,Yes,Monthly music subscription
+TXN0094,2026-02-12 00:00:00,February,2,2026,Credit Card,Withdrawal,Transportation,Rideshare,Lyft,Credit Card,41.09,Expense,Needs,No,Variable transaction
+TXN0095,2026-02-12 00:00:00,February,2,2026,Checking,Deposit,Side Income,Freelance,Freelance Client,Direct Deposit,611.82,Income,Income,No,Variable income or refund
+TXN0096,2026-02-13 00:00:00,February,2,2026,Checking,Withdrawal,Miscellaneous,Gifts,Gift Shop,Bank Transfer,53.35,Expense,Wants,No,Variable transaction
+TXN0097,2026-02-13 00:00:00,February,2,2026,Credit Card,Withdrawal,Shopping,Clothing,Amazon,Credit Card,140.8,Expense,Wants,No,Variable transaction
+TXN0098,2026-02-15 00:00:00,February,2,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2642.64,Income,Income,Yes,Recurring paycheck
+TXN0099,2026-02-15 00:00:00,February,2,2026,Credit Card,Withdrawal,Health,Fitness,Gym Membership,Credit Card,40.93,Expense,Needs,Yes,Monthly gym membership
+TXN0100,2026-02-15 00:00:00,February,2,2026,Checking,Withdrawal,Entertainment,Gaming,PlayStation Store,Bank Transfer,29.41,Expense,Wants,No,Variable transaction
+TXN0101,2026-02-18 00:00:00,February,2,2026,Savings,Withdrawal,Savings,Emergency Fund,Savings Transfer,Bank Transfer,346.26,Expense,Savings,Yes,Monthly savings transfer
+TXN0102,2026-02-18 00:00:00,February,2,2026,Credit Card,Withdrawal,Dining Out,Fast Food,Taco Bell,Credit Card,22.88,Expense,Wants,No,Variable transaction
+TXN0103,2026-02-18 00:00:00,February,2,2026,Credit Card,Withdrawal,Entertainment,Movies,Cinema,Credit Card,26.41,Expense,Wants,No,Variable transaction
+TXN0104,2026-02-19 00:00:00,February,2,2026,Checking,Withdrawal,Health,Doctor,Medical Office,Bank Transfer,88.87,Expense,Needs,No,Variable transaction
+TXN0105,2026-02-19 00:00:00,February,2,2026,Checking,Withdrawal,Entertainment,Movies,Cinema,Debit Card,28.11,Expense,Wants,No,Variable transaction
+TXN0106,2026-02-20 00:00:00,February,2,2026,Checking,Withdrawal,Housing,Rent,Apartment Rent,Bank Transfer,1741.95,Expense,Needs,Yes,Monthly rent
+TXN0107,2026-02-20 00:00:00,February,2,2026,Checking,Withdrawal,Transportation,Auto Maintenance,Oil Change Express,Debit Card,384.63,Expense,Needs,No,Variable transaction
+TXN0108,2026-02-21 00:00:00,February,2,2026,Credit Card,Withdrawal,Entertainment,Gaming,Xbox Store,Credit Card,43.23,Expense,Wants,No,Variable transaction
+TXN0109,2026-02-21 00:00:00,February,2,2026,Credit Card,Withdrawal,Dining Out,Fast Food,Wendy's,Credit Card,19.87,Expense,Wants,No,Variable transaction
+TXN0110,2026-02-22 00:00:00,February,2,2026,Checking,Withdrawal,Shopping,Electronics,Best Buy,Bank Transfer,332.5,Expense,Wants,No,Variable transaction
+TXN0111,2026-02-23 00:00:00,February,2,2026,Credit Card,Withdrawal,Transportation,Gas,Chevron,Credit Card,49.54,Expense,Needs,No,Variable transaction
+TXN0112,2026-02-23 00:00:00,February,2,2026,Checking,Withdrawal,Entertainment,Events,Concert Venue,Digital Wallet,172.71,Expense,Wants,No,Variable transaction
+TXN0113,2026-02-24 00:00:00,February,2,2026,Checking,Withdrawal,Dining Out,Restaurant,Sushi Spot,Debit Card,34.66,Expense,Wants,No,Variable transaction
+TXN0114,2026-02-24 00:00:00,February,2,2026,Checking,Withdrawal,Miscellaneous,Gifts,Gift Shop,Bank Transfer,109.34,Expense,Wants,No,Variable transaction
+TXN0115,2026-02-25 00:00:00,February,2,2026,Credit Card,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Credit Card,495.53,Expense,Needs,Yes,Recurring expense
+TXN0116,2026-02-25 00:00:00,February,2,2026,Checking,Withdrawal,Miscellaneous,Gifts,Amazon,Bank Transfer,59.71,Expense,Wants,No,Variable transaction
+TXN0117,2026-02-25 00:00:00,February,2,2026,Checking,Withdrawal,Transportation,Auto Maintenance,Tire Center,Bank Transfer,47.72,Expense,Needs,No,Variable transaction
+TXN0118,2026-02-25 00:00:00,February,2,2026,Checking,Withdrawal,Dining Out,Restaurant,Burger House,Digital Wallet,52.77,Expense,Wants,No,Variable transaction
+TXN0119,2026-02-26 00:00:00,February,2,2026,Checking,Withdrawal,Subscriptions,Cloud Storage,iCloud,Debit Card,9.88,Expense,Wants,No,Recurring expense
+TXN0120,2026-02-26 00:00:00,February,2,2026,Checking,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Debit Card,163.59,Expense,Needs,No,Recurring expense
+TXN0121,2026-02-27 00:00:00,February,2,2026,Credit Card,Withdrawal,Transportation,Gas,Chevron,Credit Card,56.79,Expense,Needs,No,Variable transaction
+TXN0122,2026-02-28 00:00:00,February,2,2026,Credit Card,Withdrawal,Health,Doctor,Clinic,Credit Card,42.98,Expense,Needs,No,Variable transaction
+TXN0123,2026-03-01 00:00:00,March,3,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2560.76,Income,Income,Yes,Recurring paycheck
+TXN0124,2026-03-01 00:00:00,March,3,2026,Checking,Withdrawal,Transportation,Auto Maintenance,Oil Change Express,Debit Card,194.19,Expense,Needs,No,Variable transaction
+TXN0125,2026-03-02 00:00:00,March,3,2026,Checking,Withdrawal,Shopping,Personal Items,CVS,Debit Card,46.13,Expense,Wants,No,Variable transaction
+TXN0126,2026-03-02 00:00:00,March,3,2026,Checking,Withdrawal,Health,Fitness,Gym Membership,Bank Transfer,22.49,Expense,Needs,Yes,Recurring expense
+TXN0127,2026-03-02 00:00:00,March,3,2026,Credit Card,Withdrawal,Groceries,Household Supplies,Costco,Credit Card,54.6,Expense,Needs,No,Variable transaction
+TXN0128,2026-03-02 00:00:00,March,3,2026,Credit Card,Withdrawal,Entertainment,Events,Ticket Seller,Credit Card,121.5,Expense,Wants,No,Variable transaction
+TXN0129,2026-03-03 00:00:00,March,3,2026,Credit Card,Withdrawal,Groceries,Household Supplies,Target,Credit Card,40.88,Expense,Needs,No,Variable transaction
+TXN0130,2026-03-03 00:00:00,March,3,2026,Credit Card,Withdrawal,Groceries,Groceries,Walmart Grocery,Credit Card,33.87,Expense,Needs,No,Variable transaction
+TXN0131,2026-03-04 00:00:00,March,3,2026,Checking,Withdrawal,Utilities,Electric,Electric Utility,Bank Transfer,111.07,Expense,Needs,Yes,Monthly electric bill
+TXN0132,2026-03-05 00:00:00,March,3,2026,Credit Card,Withdrawal,Utilities,Phone,Mobile Carrier,Credit Card,79.07,Expense,Needs,Yes,Monthly phone bill
+TXN0133,2026-03-06 00:00:00,March,3,2026,Credit Card,Withdrawal,Dining Out,Restaurant,Pizza Palace,Credit Card,55.65,Expense,Wants,No,Variable transaction
+TXN0134,2026-03-07 00:00:00,March,3,2026,Checking,Withdrawal,Housing,Rent,Apartment Rent,Bank Transfer,1717.53,Expense,Needs,Yes,Monthly rent
+TXN0135,2026-03-07 00:00:00,March,3,2026,Checking,Withdrawal,Shopping,Clothing,Amazon,Cash,76.28,Expense,Wants,No,Variable transaction
+TXN0136,2026-03-07 00:00:00,March,3,2026,Checking,Withdrawal,Entertainment,Gaming,Steam,Debit Card,78.63,Expense,Wants,No,Variable transaction
+TXN0137,2026-03-08 00:00:00,March,3,2026,Checking,Withdrawal,Shopping,Electronics,Amazon,Debit Card,308.06,Expense,Wants,No,Variable transaction
+TXN0138,2026-03-08 00:00:00,March,3,2026,Credit Card,Withdrawal,Subscriptions,Cloud Storage,iCloud,Credit Card,7.92,Expense,Wants,No,Recurring expense
+TXN0139,2026-03-08 00:00:00,March,3,2026,Credit Card,Withdrawal,Miscellaneous,Fees,Service Fee,Credit Card,13.72,Expense,Wants,No,Variable transaction
+TXN0140,2026-03-10 00:00:00,March,3,2026,Credit Card,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Credit Card,526.55,Expense,Needs,Yes,Recurring expense
+TXN0141,2026-03-10 00:00:00,March,3,2026,Checking,Withdrawal,Debt Payment,Loan Payment,Loan Servicer,Debit Card,121.18,Expense,Needs,Yes,Recurring expense
+TXN0142,2026-03-11 00:00:00,March,3,2026,Credit Card,Withdrawal,Dining Out,Restaurant,Pizza Palace,Credit Card,31.72,Expense,Wants,No,Variable transaction
+TXN0143,2026-03-12 00:00:00,March,3,2026,Savings,Withdrawal,Savings,Emergency Fund,Savings Transfer,Bank Transfer,244.32,Expense,Savings,Yes,Monthly savings transfer
+TXN0144,2026-03-12 00:00:00,March,3,2026,Credit Card,Withdrawal,Dining Out,Coffee,Starbucks,Credit Card,13.17,Expense,Wants,No,Variable transaction
+TXN0145,2026-03-12 00:00:00,March,3,2026,Checking,Withdrawal,Transportation,Rideshare,Uber,Bank Transfer,26.18,Expense,Needs,No,Variable transaction
+TXN0146,2026-03-13 00:00:00,March,3,2026,Checking,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Bank Transfer,584.1,Expense,Needs,Yes,Monthly credit card payment
+TXN0147,2026-03-13 00:00:00,March,3,2026,Credit Card,Withdrawal,Entertainment,Events,Ticket Seller,Credit Card,282.63,Expense,Wants,No,Variable transaction
+TXN0148,2026-03-13 00:00:00,March,3,2026,Checking,Withdrawal,Miscellaneous,Gifts,Gift Shop,Debit Card,27.36,Expense,Wants,No,Variable transaction
+TXN0149,2026-03-14 00:00:00,March,3,2026,Credit Card,Withdrawal,Dining Out,Coffee,Starbucks,Credit Card,10.86,Expense,Wants,No,Variable transaction
+TXN0150,2026-03-14 00:00:00,March,3,2026,Checking,Withdrawal,Dining Out,Restaurant,Pizza Palace,Digital Wallet,31.21,Expense,Wants,No,Variable transaction
+TXN0151,2026-03-15 00:00:00,March,3,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2751.67,Income,Income,Yes,Recurring paycheck
+TXN0152,2026-03-15 00:00:00,March,3,2026,Credit Card,Withdrawal,Subscriptions,Streaming,HuluView,Credit Card,17.3,Expense,Wants,Yes,Monthly streaming subscription
+TXN0153,2026-03-15 00:00:00,March,3,2026,Checking,Withdrawal,Miscellaneous,Gifts,Amazon,Digital Wallet,41.45,Expense,Wants,No,Variable transaction
+TXN0154,2026-03-15 00:00:00,March,3,2026,Credit Card,Withdrawal,Dining Out,Coffee,Local Cafe,Credit Card,12.68,Expense,Wants,No,Variable transaction
+TXN0155,2026-03-16 00:00:00,March,3,2026,Credit Card,Withdrawal,Transportation,Gas,Shell,Credit Card,42.08,Expense,Needs,No,Variable transaction
+TXN0156,2026-03-17 00:00:00,March,3,2026,Credit Card,Withdrawal,Housing,Renters Insurance,Insurance Co.,Credit Card,23.78,Expense,Needs,Yes,Monthly renters insurance
+TXN0157,2026-03-17 00:00:00,March,3,2026,Checking,Withdrawal,Dining Out,Restaurant,Burger House,Bank Transfer,66.26,Expense,Wants,No,Variable transaction
+TXN0158,2026-03-18 00:00:00,March,3,2026,Checking,Withdrawal,Groceries,Groceries,Publix,Debit Card,120.7,Expense,Needs,No,Variable transaction
+TXN0159,2026-03-19 00:00:00,March,3,2026,Credit Card,Withdrawal,Groceries,Household Supplies,Walmart,Credit Card,72.75,Expense,Needs,No,Variable transaction
+TXN0160,2026-03-19 00:00:00,March,3,2026,Checking,Withdrawal,Dining Out,Restaurant,Sushi Spot,Bank Transfer,45.61,Expense,Wants,No,Variable transaction
+TXN0161,2026-03-20 00:00:00,March,3,2026,Credit Card,Withdrawal,Utilities,Internet,Internet Provider,Credit Card,89.86,Expense,Needs,Yes,Monthly internet bill
+TXN0162,2026-03-20 00:00:00,March,3,2026,Credit Card,Withdrawal,Health,Fitness,Gym Membership,Credit Card,29.85,Expense,Needs,Yes,Monthly gym membership
+TXN0163,2026-03-20 00:00:00,March,3,2026,Checking,Withdrawal,Groceries,Household Supplies,Walmart,Debit Card,68.07,Expense,Needs,No,Variable transaction
+TXN0164,2026-03-21 00:00:00,March,3,2026,Checking,Withdrawal,Groceries,Groceries,Trader Market,Bank Transfer,110.38,Expense,Needs,No,Variable transaction
+TXN0165,2026-03-21 00:00:00,March,3,2026,Checking,Withdrawal,Health,Doctor,Medical Office,Bank Transfer,130.92,Expense,Needs,No,Variable transaction
+TXN0166,2026-03-22 00:00:00,March,3,2026,Credit Card,Withdrawal,Groceries,Household Supplies,Target,Credit Card,24.05,Expense,Needs,No,Variable transaction
+TXN0167,2026-03-24 00:00:00,March,3,2026,Checking,Withdrawal,Dining Out,Fast Food,McDonald's,Digital Wallet,27.26,Expense,Wants,No,Variable transaction
+TXN0168,2026-03-26 00:00:00,March,3,2026,Checking,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Debit Card,619.72,Expense,Needs,Yes,Recurring expense
+TXN0169,2026-03-26 00:00:00,March,3,2026,Checking,Withdrawal,Shopping,Electronics,Apple,Debit Card,634.89,Expense,Wants,No,Variable transaction
+TXN0170,2026-03-26 00:00:00,March,3,2026,Credit Card,Withdrawal,Entertainment,Events,Ticket Seller,Credit Card,130.57,Expense,Wants,No,Variable transaction
+TXN0171,2026-03-27 00:00:00,March,3,2026,Credit Card,Withdrawal,Subscriptions,Music,Spotify,Credit Card,10.82,Expense,Wants,Yes,Monthly music subscription
+TXN0172,2026-03-28 00:00:00,March,3,2026,Checking,Withdrawal,Groceries,Groceries,Trader Market,Debit Card,126.99,Expense,Needs,No,Variable transaction
+TXN0173,2026-03-28 00:00:00,March,3,2026,Credit Card,Withdrawal,Transportation,Rideshare,Lyft,Credit Card,22.78,Expense,Needs,No,Variable transaction
+TXN0174,2026-03-28 00:00:00,March,3,2026,Credit Card,Withdrawal,Health,Fitness,Gym Membership,Credit Card,20.18,Expense,Needs,Yes,Recurring expense
+TXN0175,2026-03-29 00:00:00,March,3,2026,Checking,Withdrawal,Entertainment,Movies,Online Rental,Debit Card,20.72,Expense,Wants,No,Variable transaction
+TXN0176,2026-03-29 00:00:00,March,3,2026,Checking,Withdrawal,Dining Out,Fast Food,McDonald's,Debit Card,20.08,Expense,Wants,No,Variable transaction
+TXN0177,2026-03-29 00:00:00,March,3,2026,Checking,Deposit,Side Income,Freelance,Freelance Client,Direct Deposit,357.17,Income,Income,No,Variable income or refund
+TXN0178,2026-03-30 00:00:00,March,3,2026,Credit Card,Withdrawal,Debt Payment,Loan Payment,Loan Servicer,Credit Card,194.34,Expense,Needs,Yes,Recurring expense
+TXN0179,2026-03-30 00:00:00,March,3,2026,Checking,Withdrawal,Groceries,Groceries,Trader Market,Debit Card,88.07,Expense,Needs,No,Variable transaction
+TXN0180,2026-03-31 00:00:00,March,3,2026,Checking,Withdrawal,Dining Out,Coffee,Local Cafe,Debit Card,9.71,Expense,Wants,No,Variable transaction
+TXN0181,2026-03-31 00:00:00,March,3,2026,Checking,Deposit,Side Income,Freelance,Freelance Client,Direct Deposit,292.96,Income,Income,No,Variable income or refund
+TXN0182,2026-03-31 00:00:00,March,3,2026,Credit Card,Withdrawal,Transportation,Rideshare,Lyft,Credit Card,11.95,Expense,Needs,No,Variable transaction
+TXN0183,2026-04-01 00:00:00,April,4,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2516.66,Income,Income,Yes,Recurring paycheck
+TXN0184,2026-04-01 00:00:00,April,4,2026,Credit Card,Withdrawal,Groceries,Groceries,Trader Market,Credit Card,64.13,Expense,Needs,No,Variable transaction
+TXN0185,2026-04-02 00:00:00,April,4,2026,Checking,Withdrawal,Shopping,Clothing,Amazon,Debit Card,128.46,Expense,Wants,No,Variable transaction
+TXN0186,2026-04-02 00:00:00,April,4,2026,Checking,Withdrawal,Groceries,Household Supplies,Target,Cash,75.13,Expense,Needs,No,Variable transaction
+TXN0187,2026-04-03 00:00:00,April,4,2026,Checking,Withdrawal,Dining Out,Fast Food,McDonald's,Debit Card,14.96,Expense,Wants,No,Variable transaction
+TXN0188,2026-04-03 00:00:00,April,4,2026,Checking,Withdrawal,Entertainment,Movies,Cinema,Debit Card,7.9,Expense,Wants,No,Variable transaction
+TXN0189,2026-04-03 00:00:00,April,4,2026,Credit Card,Withdrawal,Miscellaneous,Fees,Service Fee,Credit Card,9.21,Expense,Wants,No,Variable transaction
+TXN0190,2026-04-04 00:00:00,April,4,2026,Checking,Withdrawal,Shopping,Electronics,Amazon,Debit Card,867.68,Expense,Wants,No,Variable transaction
+TXN0191,2026-04-05 00:00:00,April,4,2026,Checking,Deposit,Side Income,Freelance,Freelance Client,Direct Deposit,223.48,Income,Income,No,Variable income or refund
+TXN0192,2026-04-05 00:00:00,April,4,2026,Credit Card,Withdrawal,Shopping,Personal Items,CVS,Credit Card,22.09,Expense,Wants,No,Variable transaction
+TXN0193,2026-04-05 00:00:00,April,4,2026,Checking,Withdrawal,Dining Out,Fast Food,Chick-fil-A,Bank Transfer,19.33,Expense,Wants,No,Variable transaction
+TXN0194,2026-04-06 00:00:00,April,4,2026,Credit Card,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Credit Card,450.03,Expense,Needs,Yes,Recurring expense
+TXN0195,2026-04-06 00:00:00,April,4,2026,Checking,Withdrawal,Groceries,Groceries,Walmart Grocery,Debit Card,94.09,Expense,Needs,No,Variable transaction
+TXN0196,2026-04-07 00:00:00,April,4,2026,Checking,Withdrawal,Groceries,Household Supplies,Costco,Bank Transfer,36.35,Expense,Needs,No,Variable transaction
+TXN0197,2026-04-07 00:00:00,April,4,2026,Checking,Withdrawal,Shopping,Personal Items,Target,Bank Transfer,74.5,Expense,Wants,No,Variable transaction
+TXN0198,2026-04-07 00:00:00,April,4,2026,Checking,Withdrawal,Groceries,Household Supplies,Costco,Cash,37.48,Expense,Needs,No,Variable transaction
+TXN0199,2026-04-08 00:00:00,April,4,2026,Credit Card,Withdrawal,Utilities,Phone,Mobile Carrier,Credit Card,73.84,Expense,Needs,Yes,Monthly phone bill
+TXN0200,2026-04-08 00:00:00,April,4,2026,Checking,Withdrawal,Groceries,Household Supplies,Walmart,Bank Transfer,29.9,Expense,Needs,No,Variable transaction
+TXN0201,2026-04-08 00:00:00,April,4,2026,Checking,Withdrawal,Groceries,Groceries,Trader Market,Bank Transfer,65.92,Expense,Needs,No,Variable transaction
+TXN0202,2026-04-08 00:00:00,April,4,2026,Credit Card,Withdrawal,Dining Out,Restaurant,Burger House,Credit Card,61.52,Expense,Wants,No,Variable transaction
+TXN0203,2026-04-08 00:00:00,April,4,2026,Checking,Withdrawal,Dining Out,Restaurant,Pizza Palace,Debit Card,53.9,Expense,Wants,No,Variable transaction
+TXN0204,2026-04-09 00:00:00,April,4,2026,Checking,Withdrawal,Shopping,Electronics,Best Buy,Debit Card,558.95,Expense,Wants,No,Variable transaction
+TXN0205,2026-04-09 00:00:00,April,4,2026,Credit Card,Withdrawal,Dining Out,Coffee,Dunkin,Credit Card,12.12,Expense,Wants,No,Variable transaction
+TXN0206,2026-04-09 00:00:00,April,4,2026,Checking,Withdrawal,Groceries,Household Supplies,Walmart,Debit Card,76.39,Expense,Needs,No,Variable transaction
+TXN0207,2026-04-10 00:00:00,April,4,2026,Savings,Withdrawal,Savings,Emergency Fund,Savings Transfer,Bank Transfer,189.1,Expense,Savings,Yes,Monthly savings transfer
+TXN0208,2026-04-10 00:00:00,April,4,2026,Credit Card,Withdrawal,Shopping,Clothing,Amazon,Credit Card,56.25,Expense,Wants,No,Variable transaction
+TXN0209,2026-04-10 00:00:00,April,4,2026,Checking,Withdrawal,Health,Fitness,Gym Membership,Digital Wallet,33.71,Expense,Needs,Yes,Recurring expense
+TXN0210,2026-04-11 00:00:00,April,4,2026,Savings,Transfer,Savings,Emergency Fund,Savings Transfer,Bank Transfer,594.01,Expense,Savings,Yes,Recurring expense
+TXN0211,2026-04-14 00:00:00,April,4,2026,Credit Card,Withdrawal,Subscriptions,Streaming,HuluView,Credit Card,15.54,Expense,Wants,Yes,Monthly streaming subscription
+TXN0212,2026-04-14 00:00:00,April,4,2026,Credit Card,Withdrawal,Dining Out,Coffee,Starbucks,Credit Card,13.53,Expense,Wants,No,Variable transaction
+TXN0213,2026-04-14 00:00:00,April,4,2026,Checking,Withdrawal,Entertainment,Movies,Cinema,Debit Card,9.54,Expense,Wants,No,Variable transaction
+TXN0214,2026-04-15 00:00:00,April,4,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2347.41,Income,Income,Yes,Recurring paycheck
+TXN0215,2026-04-16 00:00:00,April,4,2026,Credit Card,Withdrawal,Housing,Renters Insurance,Insurance Co.,Credit Card,20.97,Expense,Needs,Yes,Monthly renters insurance
+TXN0216,2026-04-17 00:00:00,April,4,2026,Credit Card,Withdrawal,Debt Payment,Loan Payment,Loan Servicer,Credit Card,128.09,Expense,Needs,Yes,Recurring expense
+TXN0217,2026-04-17 00:00:00,April,4,2026,Credit Card,Transfer,Savings,Investments,Brokerage Transfer,Credit Card,214.04,Expense,Savings,No,Variable transaction
+TXN0218,2026-04-18 00:00:00,April,4,2026,Credit Card,Withdrawal,Utilities,Internet,Internet Provider,Credit Card,79.16,Expense,Needs,Yes,Monthly internet bill
+TXN0219,2026-04-18 00:00:00,April,4,2026,Credit Card,Withdrawal,Subscriptions,Gaming,Nintendo Online,Credit Card,5.72,Expense,Wants,No,Recurring expense
+TXN0220,2026-04-19 00:00:00,April,4,2026,Checking,Withdrawal,Shopping,Personal Items,Walgreens,Debit Card,39.04,Expense,Wants,No,Variable transaction
+TXN0221,2026-04-19 00:00:00,April,4,2026,Checking,Withdrawal,Subscriptions,Music,Spotify,Debit Card,11.65,Expense,Wants,Yes,Recurring expense
+TXN0222,2026-04-19 00:00:00,April,4,2026,Checking,Withdrawal,Shopping,Electronics,Amazon,Debit Card,269.69,Expense,Wants,No,Variable transaction
+TXN0223,2026-04-20 00:00:00,April,4,2026,Checking,Withdrawal,Entertainment,Gaming,PlayStation Store,Debit Card,51.09,Expense,Wants,No,Variable transaction
+TXN0224,2026-04-20 00:00:00,April,4,2026,Checking,Withdrawal,Shopping,Personal Items,CVS,Bank Transfer,66.64,Expense,Wants,No,Variable transaction
+TXN0225,2026-04-20 00:00:00,April,4,2026,Checking,Withdrawal,Transportation,Gas,7-Eleven Fuel,Debit Card,47.69,Expense,Needs,No,Variable transaction
+TXN0226,2026-04-20 00:00:00,April,4,2026,Credit Card,Transfer,Savings,Investments,Brokerage Transfer,Credit Card,357.32,Expense,Savings,No,Variable transaction
+TXN0227,2026-04-21 00:00:00,April,4,2026,Credit Card,Withdrawal,Health,Fitness,Gym Membership,Credit Card,43.19,Expense,Needs,Yes,Monthly gym membership
+TXN0228,2026-04-21 00:00:00,April,4,2026,Checking,Withdrawal,Groceries,Household Supplies,Walmart,Digital Wallet,69.85,Expense,Needs,No,Variable transaction
+TXN0229,2026-04-26 00:00:00,April,4,2026,Checking,Withdrawal,Housing,Rent,Apartment Rent,Bank Transfer,1590.7,Expense,Needs,Yes,Monthly rent
+TXN0230,2026-04-26 00:00:00,April,4,2026,Credit Card,Withdrawal,Subscriptions,Music,Apple Music,Credit Card,9.83,Expense,Wants,Yes,Monthly music subscription
+TXN0231,2026-04-27 00:00:00,April,4,2026,Checking,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Bank Transfer,363.43,Expense,Needs,Yes,Monthly credit card payment
+TXN0232,2026-04-27 00:00:00,April,4,2026,Credit Card,Withdrawal,Subscriptions,Streaming,HuluView,Credit Card,11.64,Expense,Wants,Yes,Recurring expense
+TXN0233,2026-04-27 00:00:00,April,4,2026,Credit Card,Withdrawal,Dining Out,Fast Food,Chick-fil-A,Credit Card,22.95,Expense,Wants,No,Variable transaction
+TXN0234,2026-04-28 00:00:00,April,4,2026,Checking,Withdrawal,Utilities,Electric,Electric Utility,Bank Transfer,141.59,Expense,Needs,Yes,Monthly electric bill
+TXN0235,2026-04-28 00:00:00,April,4,2026,Checking,Withdrawal,Dining Out,Fast Food,Chipotle,Bank Transfer,16.09,Expense,Wants,No,Variable transaction
+TXN0236,2026-04-28 00:00:00,April,4,2026,Credit Card,Withdrawal,Transportation,Gas,7-Eleven Fuel,Credit Card,67.67,Expense,Needs,No,Variable transaction
+TXN0237,2026-04-29 00:00:00,April,4,2026,Checking,Withdrawal,Shopping,Personal Items,Walgreens,Debit Card,73.53,Expense,Wants,No,Variable transaction
+TXN0238,2026-04-30 00:00:00,April,4,2026,Credit Card,Withdrawal,Groceries,Household Supplies,Target,Credit Card,66.72,Expense,Needs,No,Variable transaction
+TXN0239,2026-05-01 00:00:00,May,5,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2445.35,Income,Income,Yes,Recurring paycheck
+TXN0240,2026-05-01 00:00:00,May,5,2026,Checking,Withdrawal,Health,Fitness,Gym Membership,Digital Wallet,24.78,Expense,Needs,Yes,Recurring expense
+TXN0241,2026-05-03 00:00:00,May,5,2026,Credit Card,Withdrawal,Groceries,Household Supplies,Target,Credit Card,26.98,Expense,Needs,No,Variable transaction
+TXN0242,2026-05-06 00:00:00,May,5,2026,Credit Card,Withdrawal,Subscriptions,Streaming,DisneyStream,Credit Card,7.26,Expense,Wants,Yes,Monthly streaming subscription
+TXN0243,2026-05-06 00:00:00,May,5,2026,Credit Card,Withdrawal,Transportation,Gas,Wawa,Credit Card,62.9,Expense,Needs,No,Variable transaction
+TXN0244,2026-05-06 00:00:00,May,5,2026,Credit Card,Withdrawal,Groceries,Groceries,Trader Market,Credit Card,67.11,Expense,Needs,No,Variable transaction
+TXN0245,2026-05-06 00:00:00,May,5,2026,Checking,Withdrawal,Groceries,Groceries,Costco,Bank Transfer,50.01,Expense,Needs,No,Variable transaction
+TXN0246,2026-05-07 00:00:00,May,5,2026,Credit Card,Withdrawal,Dining Out,Coffee,Starbucks,Credit Card,4.85,Expense,Wants,No,Variable transaction
+TXN0247,2026-05-07 00:00:00,May,5,2026,Checking,Withdrawal,Shopping,Electronics,Amazon,Debit Card,135.39,Expense,Wants,No,Variable transaction
+TXN0248,2026-05-07 00:00:00,May,5,2026,Credit Card,Withdrawal,Transportation,Rideshare,Uber,Credit Card,17.09,Expense,Needs,No,Variable transaction
+TXN0249,2026-05-08 00:00:00,May,5,2026,Checking,Withdrawal,Miscellaneous,Gifts,Gift Shop,Debit Card,38.16,Expense,Wants,No,Variable transaction
+TXN0250,2026-05-08 00:00:00,May,5,2026,Checking,Withdrawal,Dining Out,Fast Food,Wendy's,Bank Transfer,24.69,Expense,Wants,No,Variable transaction
+TXN0251,2026-05-09 00:00:00,May,5,2026,Checking,Withdrawal,Shopping,Clothing,H&M,Cash,157.12,Expense,Wants,No,Variable transaction
+TXN0252,2026-05-11 00:00:00,May,5,2026,Checking,Withdrawal,Transportation,Auto Maintenance,Oil Change Express,Debit Card,168.2,Expense,Needs,No,Variable transaction
+TXN0253,2026-05-12 00:00:00,May,5,2026,Credit Card,Withdrawal,Dining Out,Coffee,Starbucks,Credit Card,9.61,Expense,Wants,No,Variable transaction
+TXN0254,2026-05-12 00:00:00,May,5,2026,Checking,Withdrawal,Dining Out,Coffee,Dunkin,Bank Transfer,9.53,Expense,Wants,No,Variable transaction
+TXN0255,2026-05-12 00:00:00,May,5,2026,Credit Card,Withdrawal,Shopping,Electronics,Apple,Credit Card,710.5,Expense,Wants,No,Variable transaction
+TXN0256,2026-05-12 00:00:00,May,5,2026,Checking,Withdrawal,Entertainment,Gaming,Xbox Store,Digital Wallet,72.16,Expense,Wants,No,Variable transaction
+TXN0257,2026-05-14 00:00:00,May,5,2026,Checking,Deposit,Side Income,Freelance,Freelance Client,Direct Deposit,233.53,Income,Income,No,Variable income or refund
+TXN0258,2026-05-15 00:00:00,May,5,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2412.62,Income,Income,Yes,Recurring paycheck
+TXN0259,2026-05-15 00:00:00,May,5,2026,Checking,Withdrawal,Utilities,Electric,Electric Utility,Bank Transfer,88.19,Expense,Needs,Yes,Monthly electric bill
+TXN0260,2026-05-15 00:00:00,May,5,2026,Savings,Withdrawal,Savings,Emergency Fund,Savings Transfer,Bank Transfer,201.18,Expense,Savings,Yes,Monthly savings transfer
+TXN0261,2026-05-15 00:00:00,May,5,2026,Checking,Withdrawal,Dining Out,Restaurant,Burger House,Debit Card,18.93,Expense,Wants,No,Variable transaction
+TXN0262,2026-05-15 00:00:00,May,5,2026,Credit Card,Withdrawal,Transportation,Gas,Chevron,Credit Card,30.28,Expense,Needs,No,Variable transaction
+TXN0263,2026-05-16 00:00:00,May,5,2026,Credit Card,Withdrawal,Health,Fitness,Fitness App,Credit Card,40.47,Expense,Needs,Yes,Recurring expense
+TXN0264,2026-05-17 00:00:00,May,5,2026,Credit Card,Withdrawal,Health,Fitness,Gym Membership,Credit Card,40.01,Expense,Needs,Yes,Monthly gym membership
+TXN0265,2026-05-17 00:00:00,May,5,2026,Checking,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Bank Transfer,357.46,Expense,Needs,Yes,Monthly credit card payment
+TXN0266,2026-05-18 00:00:00,May,5,2026,Checking,Withdrawal,Shopping,Clothing,Amazon,Bank Transfer,154.65,Expense,Wants,No,Variable transaction
+TXN0267,2026-05-19 00:00:00,May,5,2026,Credit Card,Withdrawal,Utilities,Internet,Internet Provider,Credit Card,66.27,Expense,Needs,Yes,Monthly internet bill
+TXN0268,2026-05-19 00:00:00,May,5,2026,Checking,Withdrawal,Entertainment,Events,Ticket Seller,Bank Transfer,48.77,Expense,Wants,No,Variable transaction
+TXN0269,2026-05-19 00:00:00,May,5,2026,Checking,Withdrawal,Shopping,Clothing,Target,Cash,28.2,Expense,Wants,No,Variable transaction
+TXN0270,2026-05-20 00:00:00,May,5,2026,Credit Card,Withdrawal,Dining Out,Fast Food,Wendy's,Credit Card,11.01,Expense,Wants,No,Variable transaction
+TXN0271,2026-05-20 00:00:00,May,5,2026,Checking,Withdrawal,Health,Fitness,Gym Membership,Digital Wallet,30.65,Expense,Needs,Yes,Recurring expense
+TXN0272,2026-05-21 00:00:00,May,5,2026,Credit Card,Withdrawal,Housing,Renters Insurance,Insurance Co.,Credit Card,24.12,Expense,Needs,Yes,Monthly renters insurance
+TXN0273,2026-05-21 00:00:00,May,5,2026,Credit Card,Withdrawal,Groceries,Household Supplies,Walmart,Credit Card,76.38,Expense,Needs,No,Variable transaction
+TXN0274,2026-05-22 00:00:00,May,5,2026,Checking,Withdrawal,Groceries,Groceries,Walmart Grocery,Debit Card,122.33,Expense,Needs,No,Variable transaction
+TXN0275,2026-05-22 00:00:00,May,5,2026,Checking,Withdrawal,Groceries,Groceries,Walmart Grocery,Bank Transfer,37.0,Expense,Needs,No,Variable transaction
+TXN0276,2026-05-23 00:00:00,May,5,2026,Checking,Withdrawal,Miscellaneous,Fees,Service Fee,Cash,16.68,Expense,Wants,No,Variable transaction
+TXN0277,2026-05-23 00:00:00,May,5,2026,Checking,Withdrawal,Groceries,Groceries,Costco,Bank Transfer,143.19,Expense,Needs,No,Variable transaction
+TXN0278,2026-05-23 00:00:00,May,5,2026,Credit Card,Withdrawal,Shopping,Personal Items,Walgreens,Credit Card,34.3,Expense,Wants,No,Variable transaction
+TXN0279,2026-05-23 00:00:00,May,5,2026,Credit Card,Withdrawal,Shopping,Personal Items,CVS,Credit Card,64.64,Expense,Wants,No,Variable transaction
+TXN0280,2026-05-24 00:00:00,May,5,2026,Checking,Withdrawal,Housing,Rent,Apartment Rent,Bank Transfer,1749.45,Expense,Needs,Yes,Monthly rent
+TXN0281,2026-05-25 00:00:00,May,5,2026,Checking,Withdrawal,Dining Out,Fast Food,McDonald's,Digital Wallet,16.1,Expense,Wants,No,Variable transaction
+TXN0282,2026-05-25 00:00:00,May,5,2026,Credit Card,Withdrawal,Miscellaneous,Gifts,Gift Shop,Credit Card,20.13,Expense,Wants,No,Variable transaction
+TXN0283,2026-05-26 00:00:00,May,5,2026,Checking,Withdrawal,Transportation,Rideshare,Lyft,Debit Card,47.04,Expense,Needs,No,Variable transaction
+TXN0284,2026-05-27 00:00:00,May,5,2026,Credit Card,Withdrawal,Utilities,Phone,Mobile Carrier,Credit Card,75.58,Expense,Needs,Yes,Monthly phone bill
+TXN0285,2026-05-27 00:00:00,May,5,2026,Credit Card,Withdrawal,Subscriptions,Music,Spotify,Credit Card,10.17,Expense,Wants,Yes,Monthly music subscription
+TXN0286,2026-05-27 00:00:00,May,5,2026,Checking,Withdrawal,Miscellaneous,Gifts,Gift Shop,Digital Wallet,67.91,Expense,Wants,No,Variable transaction
+TXN0287,2026-05-27 00:00:00,May,5,2026,Credit Card,Withdrawal,Shopping,Clothing,Amazon,Credit Card,23.96,Expense,Wants,No,Variable transaction
+TXN0288,2026-05-28 00:00:00,May,5,2026,Credit Card,Withdrawal,Shopping,Clothing,Amazon,Credit Card,149.75,Expense,Wants,No,Variable transaction
+TXN0289,2026-05-30 00:00:00,May,5,2026,Checking,Withdrawal,Shopping,Personal Items,Walgreens,Debit Card,33.05,Expense,Wants,No,Variable transaction
+TXN0290,2026-05-31 00:00:00,May,5,2026,Checking,Withdrawal,Dining Out,Fast Food,Taco Bell,Bank Transfer,11.12,Expense,Wants,No,Variable transaction
+TXN0291,2026-05-31 00:00:00,May,5,2026,Checking,Withdrawal,Subscriptions,Music,Spotify,Debit Card,10.57,Expense,Wants,Yes,Recurring expense
+TXN0292,2026-05-31 00:00:00,May,5,2026,Credit Card,Withdrawal,Dining Out,Coffee,Dunkin,Credit Card,12.61,Expense,Wants,No,Variable transaction
+TXN0293,2026-06-01 00:00:00,June,6,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2614.46,Income,Income,Yes,Recurring paycheck
+TXN0294,2026-06-01 00:00:00,June,6,2026,Checking,Withdrawal,Dining Out,Fast Food,Chick-fil-A,Bank Transfer,20.53,Expense,Wants,No,Variable transaction
+TXN0295,2026-06-01 00:00:00,June,6,2026,Credit Card,Withdrawal,Dining Out,Coffee,Local Cafe,Credit Card,13.86,Expense,Wants,No,Variable transaction
+TXN0296,2026-06-01 00:00:00,June,6,2026,Credit Card,Withdrawal,Shopping,Clothing,Nike,Credit Card,158.66,Expense,Wants,No,Variable transaction
+TXN0297,2026-06-02 00:00:00,June,6,2026,Credit Card,Withdrawal,Transportation,Rideshare,Lyft,Credit Card,40.2,Expense,Needs,No,Variable transaction
+TXN0298,2026-06-03 00:00:00,June,6,2026,Checking,Withdrawal,Housing,Rent,Apartment Rent,Bank Transfer,1592.55,Expense,Needs,Yes,Monthly rent
+TXN0299,2026-06-05 00:00:00,June,6,2026,Checking,Withdrawal,Shopping,Electronics,Best Buy,Bank Transfer,245.03,Expense,Wants,No,Variable transaction
+TXN0300,2026-06-07 00:00:00,June,6,2026,Credit Card,Withdrawal,Shopping,Electronics,Best Buy,Credit Card,388.45,Expense,Wants,No,Variable transaction
+TXN0301,2026-06-08 00:00:00,June,6,2026,Checking,Deposit,Side Income,Freelance,Freelance Client,Direct Deposit,401.32,Income,Income,No,Variable income or refund
+TXN0302,2026-06-08 00:00:00,June,6,2026,Checking,Withdrawal,Dining Out,Coffee,Local Cafe,Bank Transfer,6.89,Expense,Wants,No,Variable transaction
+TXN0303,2026-06-09 00:00:00,June,6,2026,Credit Card,Withdrawal,Subscriptions,Music,Spotify,Credit Card,10.74,Expense,Wants,Yes,Monthly music subscription
+TXN0304,2026-06-09 00:00:00,June,6,2026,Credit Card,Withdrawal,Health,Fitness,Gym Membership,Credit Card,42.38,Expense,Needs,Yes,Monthly gym membership
+TXN0305,2026-06-09 00:00:00,June,6,2026,Checking,Withdrawal,Dining Out,Restaurant,Burger House,Bank Transfer,36.97,Expense,Wants,No,Variable transaction
+TXN0306,2026-06-10 00:00:00,June,6,2026,Credit Card,Withdrawal,Groceries,Groceries,Publix,Credit Card,120.07,Expense,Needs,No,Variable transaction
+TXN0307,2026-06-10 00:00:00,June,6,2026,Checking,Withdrawal,Groceries,Groceries,Walmart Grocery,Digital Wallet,68.12,Expense,Needs,No,Variable transaction
+TXN0308,2026-06-10 00:00:00,June,6,2026,Checking,Withdrawal,Health,Fitness,Fitness App,Debit Card,21.62,Expense,Needs,Yes,Recurring expense
+TXN0309,2026-06-10 00:00:00,June,6,2026,Checking,Withdrawal,Miscellaneous,Gifts,Gift Shop,Cash,114.34,Expense,Wants,No,Variable transaction
+TXN0310,2026-06-10 00:00:00,June,6,2026,Credit Card,Deposit,Refund,Cash Back,Credit Card Rewards,Credit Card,98.36,Income,Income,No,Variable income or refund
+TXN0311,2026-06-11 00:00:00,June,6,2026,Checking,Withdrawal,Dining Out,Coffee,Starbucks,Bank Transfer,7.18,Expense,Wants,No,Variable transaction
+TXN0312,2026-06-12 00:00:00,June,6,2026,Checking,Deposit,Side Income,Freelance,Freelance Client,Direct Deposit,437.78,Income,Income,No,Variable income or refund
+TXN0313,2026-06-12 00:00:00,June,6,2026,Credit Card,Withdrawal,Miscellaneous,Gifts,Amazon,Credit Card,44.22,Expense,Wants,No,Variable transaction
+TXN0314,2026-06-13 00:00:00,June,6,2026,Credit Card,Withdrawal,Groceries,Groceries,Trader Market,Credit Card,101.31,Expense,Needs,No,Variable transaction
+TXN0315,2026-06-14 00:00:00,June,6,2026,Credit Card,Withdrawal,Miscellaneous,Gifts,Amazon,Credit Card,80.1,Expense,Wants,No,Variable transaction
+TXN0316,2026-06-14 00:00:00,June,6,2026,Credit Card,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Credit Card,93.72,Expense,Needs,Yes,Recurring expense
+TXN0317,2026-06-15 00:00:00,June,6,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2381.83,Income,Income,Yes,Recurring paycheck
+TXN0318,2026-06-16 00:00:00,June,6,2026,Credit Card,Withdrawal,Housing,Renters Insurance,Insurance Co.,Credit Card,21.13,Expense,Needs,Yes,Monthly renters insurance
+TXN0319,2026-06-16 00:00:00,June,6,2026,Credit Card,Withdrawal,Groceries,Household Supplies,Costco,Credit Card,44.64,Expense,Needs,No,Variable transaction
+TXN0320,2026-06-16 00:00:00,June,6,2026,Credit Card,Withdrawal,Transportation,Rideshare,Uber,Credit Card,31.91,Expense,Needs,No,Variable transaction
+TXN0321,2026-06-17 00:00:00,June,6,2026,Credit Card,Withdrawal,Utilities,Internet,Internet Provider,Credit Card,84.57,Expense,Needs,Yes,Monthly internet bill
+TXN0322,2026-06-17 00:00:00,June,6,2026,Checking,Withdrawal,Entertainment,Events,Concert Venue,Digital Wallet,135.71,Expense,Wants,No,Variable transaction
+TXN0323,2026-06-18 00:00:00,June,6,2026,Credit Card,Withdrawal,Utilities,Phone,Mobile Carrier,Credit Card,75.95,Expense,Needs,Yes,Monthly phone bill
+TXN0324,2026-06-18 00:00:00,June,6,2026,Credit Card,Withdrawal,Entertainment,Gaming,Xbox Store,Credit Card,71.13,Expense,Wants,No,Variable transaction
+TXN0325,2026-06-18 00:00:00,June,6,2026,Credit Card,Withdrawal,Transportation,Auto Maintenance,Tire Center,Credit Card,96.16,Expense,Needs,No,Variable transaction
+TXN0326,2026-06-19 00:00:00,June,6,2026,Checking,Withdrawal,Entertainment,Movies,Online Rental,Debit Card,13.42,Expense,Wants,No,Variable transaction
+TXN0327,2026-06-22 00:00:00,June,6,2026,Checking,Withdrawal,Utilities,Electric,Electric Utility,Bank Transfer,164.83,Expense,Needs,Yes,Monthly electric bill
+TXN0328,2026-06-23 00:00:00,June,6,2026,Checking,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Bank Transfer,487.31,Expense,Needs,Yes,Monthly credit card payment
+TXN0329,2026-06-23 00:00:00,June,6,2026,Credit Card,Withdrawal,Dining Out,Fast Food,Taco Bell,Credit Card,22.72,Expense,Wants,No,Variable transaction
+TXN0330,2026-06-23 00:00:00,June,6,2026,Credit Card,Withdrawal,Dining Out,Coffee,Local Cafe,Credit Card,9.6,Expense,Wants,No,Variable transaction
+TXN0331,2026-06-23 00:00:00,June,6,2026,Credit Card,Withdrawal,Transportation,Auto Maintenance,Oil Change Express,Credit Card,162.05,Expense,Needs,No,Variable transaction
+TXN0332,2026-06-24 00:00:00,June,6,2026,Credit Card,Withdrawal,Subscriptions,Streaming,StreamFlix,Credit Card,7.22,Expense,Wants,Yes,Monthly streaming subscription
+TXN0333,2026-06-24 00:00:00,June,6,2026,Credit Card,Withdrawal,Miscellaneous,Fees,Bank Fee,Credit Card,10.35,Expense,Wants,No,Variable transaction
+TXN0334,2026-06-25 00:00:00,June,6,2026,Credit Card,Withdrawal,Miscellaneous,Gifts,Gift Shop,Credit Card,40.81,Expense,Wants,No,Variable transaction
+TXN0335,2026-06-27 00:00:00,June,6,2026,Savings,Withdrawal,Savings,Emergency Fund,Savings Transfer,Bank Transfer,250.13,Expense,Savings,Yes,Monthly savings transfer
+TXN0336,2026-06-27 00:00:00,June,6,2026,Credit Card,Withdrawal,Shopping,Electronics,Apple,Credit Card,90.56,Expense,Wants,No,Variable transaction
+TXN0337,2026-06-27 00:00:00,June,6,2026,Checking,Withdrawal,Entertainment,Movies,Cinema,Bank Transfer,14.46,Expense,Wants,No,Variable transaction
+TXN0338,2026-06-27 00:00:00,June,6,2026,Checking,Withdrawal,Groceries,Groceries,Walmart Grocery,Cash,39.88,Expense,Needs,No,Variable transaction
+TXN0339,2026-06-28 00:00:00,June,6,2026,Credit Card,Withdrawal,Dining Out,Coffee,Dunkin,Credit Card,8.45,Expense,Wants,No,Variable transaction
+TXN0340,2026-06-28 00:00:00,June,6,2026,Checking,Withdrawal,Miscellaneous,Gifts,Gift Shop,Bank Transfer,17.23,Expense,Wants,No,Variable transaction
+TXN0341,2026-06-28 00:00:00,June,6,2026,Credit Card,Withdrawal,Groceries,Groceries,Walmart Grocery,Credit Card,62.38,Expense,Needs,No,Variable transaction
+TXN0342,2026-06-29 00:00:00,June,6,2026,Checking,Withdrawal,Transportation,Rideshare,Lyft,Debit Card,31.09,Expense,Needs,No,Variable transaction
+TXN0343,2026-06-29 00:00:00,June,6,2026,Credit Card,Withdrawal,Dining Out,Coffee,Starbucks,Credit Card,5.75,Expense,Wants,No,Variable transaction
+TXN0344,2026-06-29 00:00:00,June,6,2026,Checking,Deposit,Side Income,Freelance,Freelance Client,Direct Deposit,572.27,Income,Income,No,Variable income or refund
+TXN0345,2026-06-29 00:00:00,June,6,2026,Checking,Withdrawal,Dining Out,Fast Food,Chipotle,Debit Card,8.07,Expense,Wants,No,Variable transaction
+TXN0346,2026-06-30 00:00:00,June,6,2026,Checking,Withdrawal,Miscellaneous,Gifts,Gift Shop,Bank Transfer,68.77,Expense,Wants,No,Variable transaction
+TXN0347,2026-06-30 00:00:00,June,6,2026,Checking,Withdrawal,Groceries,Groceries,Walmart Grocery,Debit Card,29.97,Expense,Needs,No,Variable transaction
+TXN0348,2026-06-30 00:00:00,June,6,2026,Credit Card,Withdrawal,Dining Out,Restaurant,Burger House,Credit Card,35.43,Expense,Wants,No,Variable transaction
+TXN0349,2026-07-01 00:00:00,July,7,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2706.72,Income,Income,Yes,Recurring paycheck
+TXN0350,2026-07-03 00:00:00,July,7,2026,Checking,Withdrawal,Groceries,Household Supplies,Walmart,Debit Card,80.06,Expense,Needs,No,Variable transaction
+TXN0351,2026-07-03 00:00:00,July,7,2026,Savings,Transfer,Savings,Emergency Fund,Savings Transfer,Bank Transfer,180.4,Expense,Savings,Yes,Recurring expense
+TXN0352,2026-07-03 00:00:00,July,7,2026,Checking,Withdrawal,Groceries,Groceries,Costco,Debit Card,52.55,Expense,Needs,No,Variable transaction
+TXN0353,2026-07-04 00:00:00,July,7,2026,Checking,Withdrawal,Utilities,Electric,Electric Utility,Bank Transfer,158.2,Expense,Needs,Yes,Monthly electric bill
+TXN0354,2026-07-05 00:00:00,July,7,2026,Checking,Withdrawal,Groceries,Household Supplies,Costco,Debit Card,60.82,Expense,Needs,No,Variable transaction
+TXN0355,2026-07-06 00:00:00,July,7,2026,Checking,Withdrawal,Transportation,Auto Maintenance,Auto Shop,Digital Wallet,163.5,Expense,Needs,No,Variable transaction
+TXN0356,2026-07-07 00:00:00,July,7,2026,Checking,Withdrawal,Miscellaneous,Fees,Service Fee,Cash,6.38,Expense,Wants,No,Variable transaction
+TXN0357,2026-07-09 00:00:00,July,7,2026,Checking,Withdrawal,Shopping,Clothing,Amazon,Bank Transfer,36.01,Expense,Wants,No,Variable transaction
+TXN0358,2026-07-10 00:00:00,July,7,2026,Credit Card,Withdrawal,Housing,Renters Insurance,Insurance Co.,Credit Card,19.04,Expense,Needs,Yes,Monthly renters insurance
+TXN0359,2026-07-10 00:00:00,July,7,2026,Credit Card,Withdrawal,Health,Fitness,Gym Membership,Credit Card,40.41,Expense,Needs,Yes,Monthly gym membership
+TXN0360,2026-07-10 00:00:00,July,7,2026,Credit Card,Withdrawal,Dining Out,Fast Food,Chipotle,Credit Card,25.02,Expense,Wants,No,Variable transaction
+TXN0361,2026-07-11 00:00:00,July,7,2026,Credit Card,Withdrawal,Subscriptions,Cloud Storage,iCloud,Credit Card,4.42,Expense,Wants,No,Recurring expense
+TXN0362,2026-07-12 00:00:00,July,7,2026,Checking,Withdrawal,Transportation,Auto Maintenance,Oil Change Express,Debit Card,195.9,Expense,Needs,No,Variable transaction
+TXN0363,2026-07-13 00:00:00,July,7,2026,Checking,Withdrawal,Groceries,Household Supplies,Target,Bank Transfer,82.53,Expense,Needs,No,Variable transaction
+TXN0364,2026-07-14 00:00:00,July,7,2026,Credit Card,Withdrawal,Shopping,Electronics,Apple,Credit Card,380.44,Expense,Wants,No,Variable transaction
+TXN0365,2026-07-15 00:00:00,July,7,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2395.53,Income,Income,Yes,Recurring paycheck
+TXN0366,2026-07-15 00:00:00,July,7,2026,Credit Card,Withdrawal,Utilities,Internet,Internet Provider,Credit Card,81.49,Expense,Needs,Yes,Monthly internet bill
+TXN0367,2026-07-15 00:00:00,July,7,2026,Credit Card,Withdrawal,Subscriptions,Streaming,StreamFlix,Credit Card,16.62,Expense,Wants,Yes,Monthly streaming subscription
+TXN0368,2026-07-15 00:00:00,July,7,2026,Credit Card,Withdrawal,Dining Out,Fast Food,Wendy's,Credit Card,26.2,Expense,Wants,No,Variable transaction
+TXN0369,2026-07-16 00:00:00,July,7,2026,Credit Card,Withdrawal,Groceries,Groceries,Costco,Credit Card,83.67,Expense,Needs,No,Variable transaction
+TXN0370,2026-07-16 00:00:00,July,7,2026,Credit Card,Withdrawal,Entertainment,Movies,Cinema,Credit Card,15.84,Expense,Wants,No,Variable transaction
+TXN0371,2026-07-16 00:00:00,July,7,2026,Checking,Withdrawal,Health,Doctor,Clinic,Digital Wallet,154.34,Expense,Needs,No,Variable transaction
+TXN0372,2026-07-17 00:00:00,July,7,2026,Checking,Withdrawal,Dining Out,Coffee,Local Cafe,Debit Card,11.28,Expense,Wants,No,Variable transaction
+TXN0373,2026-07-17 00:00:00,July,7,2026,Checking,Deposit,Side Income,Freelance,Freelance Client,Direct Deposit,314.64,Income,Income,No,Variable income or refund
+TXN0374,2026-07-17 00:00:00,July,7,2026,Checking,Withdrawal,Transportation,Auto Maintenance,Oil Change Express,Debit Card,242.54,Expense,Needs,No,Variable transaction
+TXN0375,2026-07-18 00:00:00,July,7,2026,Checking,Withdrawal,Entertainment,Movies,Online Rental,Debit Card,16.37,Expense,Wants,No,Variable transaction
+TXN0376,2026-07-22 00:00:00,July,7,2026,Checking,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Bank Transfer,432.6,Expense,Needs,Yes,Monthly credit card payment
+TXN0377,2026-07-22 00:00:00,July,7,2026,Checking,Withdrawal,Entertainment,Events,Ticket Seller,Bank Transfer,27.63,Expense,Wants,No,Variable transaction
+TXN0378,2026-07-23 00:00:00,July,7,2026,Credit Card,Withdrawal,Entertainment,Gaming,Nintendo eShop,Credit Card,36.62,Expense,Wants,No,Variable transaction
+TXN0379,2026-07-24 00:00:00,July,7,2026,Checking,Withdrawal,Shopping,Electronics,Apple,Debit Card,248.33,Expense,Wants,No,Variable transaction
+TXN0380,2026-07-24 00:00:00,July,7,2026,Credit Card,Withdrawal,Miscellaneous,Fees,Service Fee,Credit Card,13.08,Expense,Wants,No,Variable transaction
+TXN0381,2026-07-25 00:00:00,July,7,2026,Credit Card,Withdrawal,Subscriptions,Music,Apple Music,Credit Card,11.2,Expense,Wants,Yes,Monthly music subscription
+TXN0382,2026-07-25 00:00:00,July,7,2026,Credit Card,Withdrawal,Shopping,Electronics,Apple,Credit Card,98.04,Expense,Wants,No,Variable transaction
+TXN0383,2026-07-25 00:00:00,July,7,2026,Checking,Withdrawal,Groceries,Household Supplies,Walmart,Debit Card,86.18,Expense,Needs,No,Variable transaction
+TXN0384,2026-07-26 00:00:00,July,7,2026,Checking,Withdrawal,Housing,Rent,Apartment Rent,Bank Transfer,1732.73,Expense,Needs,Yes,Monthly rent
+TXN0385,2026-07-26 00:00:00,July,7,2026,Savings,Withdrawal,Savings,Emergency Fund,Savings Transfer,Bank Transfer,184.75,Expense,Savings,Yes,Monthly savings transfer
+TXN0386,2026-07-26 00:00:00,July,7,2026,Credit Card,Withdrawal,Entertainment,Events,Ticket Seller,Credit Card,115.86,Expense,Wants,No,Variable transaction
+TXN0387,2026-07-26 00:00:00,July,7,2026,Credit Card,Withdrawal,Dining Out,Restaurant,Pizza Palace,Credit Card,19.62,Expense,Wants,No,Variable transaction
+TXN0388,2026-07-27 00:00:00,July,7,2026,Credit Card,Withdrawal,Utilities,Phone,Mobile Carrier,Credit Card,86.21,Expense,Needs,Yes,Monthly phone bill
+TXN0389,2026-07-27 00:00:00,July,7,2026,Credit Card,Withdrawal,Miscellaneous,Fees,Bank Fee,Credit Card,23.61,Expense,Wants,No,Variable transaction
+TXN0390,2026-07-28 00:00:00,July,7,2026,Checking,Withdrawal,Transportation,Auto Maintenance,Oil Change Express,Bank Transfer,123.81,Expense,Needs,No,Variable transaction
+TXN0391,2026-07-29 00:00:00,July,7,2026,Checking,Withdrawal,Groceries,Household Supplies,Target,Digital Wallet,21.97,Expense,Needs,No,Variable transaction
+TXN0392,2026-07-30 00:00:00,July,7,2026,Credit Card,Withdrawal,Miscellaneous,Fees,Bank Fee,Credit Card,19.16,Expense,Wants,No,Variable transaction
+TXN0393,2026-07-30 00:00:00,July,7,2026,Checking,Withdrawal,Transportation,Gas,Chevron,Debit Card,70.96,Expense,Needs,No,Variable transaction
+TXN0394,2026-07-30 00:00:00,July,7,2026,Credit Card,Transfer,Savings,Emergency Fund,Savings Transfer,Credit Card,315.76,Expense,Savings,Yes,Recurring expense
+TXN0395,2026-07-31 00:00:00,July,7,2026,Checking,Withdrawal,Entertainment,Movies,Cinema,Bank Transfer,34.59,Expense,Wants,No,Variable transaction
+TXN0396,2026-07-31 00:00:00,July,7,2026,Checking,Withdrawal,Groceries,Household Supplies,Walmart,Bank Transfer,50.34,Expense,Needs,No,Variable transaction
+TXN0397,2026-07-31 00:00:00,July,7,2026,Credit Card,Withdrawal,Miscellaneous,Gifts,Amazon,Credit Card,71.53,Expense,Wants,No,Variable transaction
+TXN0398,2026-07-31 00:00:00,July,7,2026,Credit Card,Withdrawal,Groceries,Household Supplies,Costco,Credit Card,33.91,Expense,Needs,No,Variable transaction
+TXN0399,2026-08-01 00:00:00,August,8,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2435.32,Income,Income,Yes,Recurring paycheck
+TXN0400,2026-08-01 00:00:00,August,8,2026,Credit Card,Withdrawal,Shopping,Electronics,Best Buy,Credit Card,367.12,Expense,Wants,No,Variable transaction
+TXN0401,2026-08-02 00:00:00,August,8,2026,Checking,Withdrawal,Miscellaneous,Fees,Bank Fee,Bank Transfer,22.8,Expense,Wants,No,Variable transaction
+TXN0402,2026-08-02 00:00:00,August,8,2026,Credit Card,Withdrawal,Dining Out,Restaurant,Burger House,Credit Card,31.84,Expense,Wants,No,Variable transaction
+TXN0403,2026-08-03 00:00:00,August,8,2026,Credit Card,Withdrawal,Subscriptions,Streaming,DisneyStream,Credit Card,16.53,Expense,Wants,Yes,Monthly streaming subscription
+TXN0404,2026-08-03 00:00:00,August,8,2026,Checking,Withdrawal,Groceries,Household Supplies,Walmart,Bank Transfer,68.8,Expense,Needs,No,Variable transaction
+TXN0405,2026-08-03 00:00:00,August,8,2026,Credit Card,Withdrawal,Entertainment,Movies,Cinema,Credit Card,25.06,Expense,Wants,No,Variable transaction
+TXN0406,2026-08-04 00:00:00,August,8,2026,Checking,Withdrawal,Utilities,Electric,Electric Utility,Bank Transfer,135.57,Expense,Needs,Yes,Monthly electric bill
+TXN0407,2026-08-04 00:00:00,August,8,2026,Checking,Withdrawal,Shopping,Electronics,Amazon,Digital Wallet,173.62,Expense,Wants,No,Variable transaction
+TXN0408,2026-08-04 00:00:00,August,8,2026,Checking,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Debit Card,587.93,Expense,Needs,Yes,Recurring expense
+TXN0409,2026-08-05 00:00:00,August,8,2026,Credit Card,Withdrawal,Health,Fitness,Gym Membership,Credit Card,32.84,Expense,Needs,Yes,Monthly gym membership
+TXN0410,2026-08-05 00:00:00,August,8,2026,Credit Card,Withdrawal,Transportation,Rideshare,Uber,Credit Card,29.37,Expense,Needs,No,Variable transaction
+TXN0411,2026-08-05 00:00:00,August,8,2026,Credit Card,Withdrawal,Shopping,Electronics,Apple,Credit Card,132.82,Expense,Wants,No,Variable transaction
+TXN0412,2026-08-06 00:00:00,August,8,2026,Checking,Withdrawal,Shopping,Personal Items,Walgreens,Bank Transfer,53.26,Expense,Wants,No,Variable transaction
+TXN0413,2026-08-06 00:00:00,August,8,2026,Credit Card,Withdrawal,Health,Pharmacy,CVS,Credit Card,42.31,Expense,Needs,No,Variable transaction
+TXN0414,2026-08-06 00:00:00,August,8,2026,Checking,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Debit Card,311.42,Expense,Needs,Yes,Recurring expense
+TXN0415,2026-08-06 00:00:00,August,8,2026,Credit Card,Withdrawal,Entertainment,Gaming,Nintendo eShop,Credit Card,49.89,Expense,Wants,No,Variable transaction
+TXN0416,2026-08-07 00:00:00,August,8,2026,Credit Card,Withdrawal,Groceries,Groceries,Trader Market,Credit Card,148.56,Expense,Needs,No,Variable transaction
+TXN0417,2026-08-08 00:00:00,August,8,2026,Credit Card,Withdrawal,Utilities,Phone,Mobile Carrier,Credit Card,88.25,Expense,Needs,Yes,Monthly phone bill
+TXN0418,2026-08-08 00:00:00,August,8,2026,Checking,Withdrawal,Groceries,Groceries,Costco,Bank Transfer,39.92,Expense,Needs,No,Variable transaction
+TXN0419,2026-08-09 00:00:00,August,8,2026,Credit Card,Deposit,Refund,Cash Back,Credit Card Rewards,Credit Card,20.82,Income,Income,No,Variable income or refund
+TXN0420,2026-08-09 00:00:00,August,8,2026,Checking,Deposit,Side Income,Freelance,Freelance Client,Direct Deposit,512.12,Income,Income,No,Variable income or refund
+TXN0421,2026-08-10 00:00:00,August,8,2026,Credit Card,Withdrawal,Health,Fitness,Gym Membership,Credit Card,24.15,Expense,Needs,No,Recurring expense
+TXN0422,2026-08-11 00:00:00,August,8,2026,Checking,Withdrawal,Transportation,Gas,Chevron,Bank Transfer,57.04,Expense,Needs,No,Variable transaction
+TXN0423,2026-08-11 00:00:00,August,8,2026,Credit Card,Transfer,Savings,Emergency Fund,Savings Transfer,Credit Card,493.3,Expense,Savings,No,Recurring expense
+TXN0424,2026-08-12 00:00:00,August,8,2026,Credit Card,Withdrawal,Shopping,Personal Items,CVS,Credit Card,31.67,Expense,Wants,No,Variable transaction
+TXN0425,2026-08-12 00:00:00,August,8,2026,Credit Card,Transfer,Savings,Investments,Brokerage Transfer,Credit Card,296.93,Expense,Savings,No,Variable transaction
+TXN0426,2026-08-12 00:00:00,August,8,2026,Checking,Withdrawal,Groceries,Groceries,Costco,Digital Wallet,128.12,Expense,Needs,No,Variable transaction
+TXN0427,2026-08-13 00:00:00,August,8,2026,Credit Card,Withdrawal,Groceries,Household Supplies,Costco,Credit Card,24.06,Expense,Needs,No,Variable transaction
+TXN0428,2026-08-14 00:00:00,August,8,2026,Checking,Withdrawal,Miscellaneous,Fees,Service Fee,Bank Transfer,4.74,Expense,Wants,No,Variable transaction
+TXN0429,2026-08-15 00:00:00,August,8,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2685.38,Income,Income,Yes,Recurring paycheck
+TXN0430,2026-08-15 00:00:00,August,8,2026,Checking,Withdrawal,Groceries,Groceries,Costco,Digital Wallet,28.51,Expense,Needs,No,Variable transaction
+TXN0431,2026-08-15 00:00:00,August,8,2026,Credit Card,Deposit,Refund,Cash Back,Credit Card Rewards,Credit Card,97.91,Income,Income,No,Variable income or refund
+TXN0432,2026-08-15 00:00:00,August,8,2026,Credit Card,Withdrawal,Transportation,Gas,7-Eleven Fuel,Credit Card,42.47,Expense,Needs,No,Variable transaction
+TXN0433,2026-08-15 00:00:00,August,8,2026,Checking,Withdrawal,Dining Out,Fast Food,Taco Bell,Debit Card,12.83,Expense,Wants,No,Variable transaction
+TXN0434,2026-08-15 00:00:00,August,8,2026,Credit Card,Withdrawal,Dining Out,Restaurant,Sushi Spot,Credit Card,23.66,Expense,Wants,No,Variable transaction
+TXN0435,2026-08-16 00:00:00,August,8,2026,Credit Card,Withdrawal,Subscriptions,Music,Spotify,Credit Card,10.88,Expense,Wants,Yes,Monthly music subscription
+TXN0436,2026-08-18 00:00:00,August,8,2026,Checking,Withdrawal,Housing,Rent,Apartment Rent,Bank Transfer,1654.65,Expense,Needs,Yes,Monthly rent
+TXN0437,2026-08-18 00:00:00,August,8,2026,Credit Card,Withdrawal,Groceries,Groceries,Costco,Credit Card,50.88,Expense,Needs,No,Variable transaction
+TXN0438,2026-08-19 00:00:00,August,8,2026,Credit Card,Withdrawal,Housing,Renters Insurance,Insurance Co.,Credit Card,24.06,Expense,Needs,Yes,Monthly renters insurance
+TXN0439,2026-08-20 00:00:00,August,8,2026,Credit Card,Withdrawal,Utilities,Internet,Internet Provider,Credit Card,89.95,Expense,Needs,Yes,Monthly internet bill
+TXN0440,2026-08-20 00:00:00,August,8,2026,Savings,Withdrawal,Savings,Emergency Fund,Savings Transfer,Bank Transfer,223.93,Expense,Savings,Yes,Monthly savings transfer
+TXN0441,2026-08-20 00:00:00,August,8,2026,Checking,Withdrawal,Dining Out,Fast Food,Chick-fil-A,Digital Wallet,13.36,Expense,Wants,No,Variable transaction
+TXN0442,2026-08-20 00:00:00,August,8,2026,Credit Card,Withdrawal,Dining Out,Fast Food,Chick-fil-A,Credit Card,12.28,Expense,Wants,No,Variable transaction
+TXN0443,2026-08-21 00:00:00,August,8,2026,Credit Card,Withdrawal,Transportation,Rideshare,Uber,Credit Card,17.52,Expense,Needs,No,Variable transaction
+TXN0444,2026-08-21 00:00:00,August,8,2026,Credit Card,Withdrawal,Entertainment,Gaming,Steam,Credit Card,63.47,Expense,Wants,No,Variable transaction
+TXN0445,2026-08-21 00:00:00,August,8,2026,Credit Card,Withdrawal,Debt Payment,Loan Payment,Loan Servicer,Credit Card,305.28,Expense,Needs,No,Recurring expense
+TXN0446,2026-08-23 00:00:00,August,8,2026,Credit Card,Transfer,Savings,Investments,Brokerage Transfer,Credit Card,323.92,Expense,Savings,No,Variable transaction
+TXN0447,2026-08-24 00:00:00,August,8,2026,Checking,Withdrawal,Miscellaneous,Fees,Service Fee,Debit Card,11.75,Expense,Wants,No,Variable transaction
+TXN0448,2026-08-25 00:00:00,August,8,2026,Checking,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Bank Transfer,364.58,Expense,Needs,Yes,Monthly credit card payment
+TXN0449,2026-08-27 00:00:00,August,8,2026,Credit Card,Withdrawal,Groceries,Groceries,Trader Market,Credit Card,85.93,Expense,Needs,No,Variable transaction
+TXN0450,2026-08-27 00:00:00,August,8,2026,Credit Card,Withdrawal,Health,Pharmacy,CVS,Credit Card,45.63,Expense,Needs,No,Variable transaction
+TXN0451,2026-08-27 00:00:00,August,8,2026,Credit Card,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Credit Card,595.19,Expense,Needs,No,Recurring expense
+TXN0452,2026-08-27 00:00:00,August,8,2026,Checking,Withdrawal,Health,Pharmacy,CVS,Bank Transfer,49.39,Expense,Needs,No,Variable transaction
+TXN0453,2026-08-28 00:00:00,August,8,2026,Credit Card,Withdrawal,Dining Out,Coffee,Starbucks,Credit Card,14.27,Expense,Wants,No,Variable transaction
+TXN0454,2026-08-29 00:00:00,August,8,2026,Credit Card,Withdrawal,Dining Out,Restaurant,Burger House,Credit Card,23.55,Expense,Wants,No,Variable transaction
+TXN0455,2026-08-30 00:00:00,August,8,2026,Checking,Withdrawal,Transportation,Auto Maintenance,Tire Center,Bank Transfer,217.1,Expense,Needs,No,Variable transaction
+TXN0456,2026-09-01 00:00:00,September,9,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2648.54,Income,Income,Yes,Recurring paycheck
+TXN0457,2026-09-01 00:00:00,September,9,2026,Credit Card,Withdrawal,Miscellaneous,Gifts,Gift Shop,Credit Card,32.4,Expense,Wants,No,Variable transaction
+TXN0458,2026-09-01 00:00:00,September,9,2026,Checking,Deposit,Side Income,Freelance,Freelance Client,Direct Deposit,435.57,Income,Income,No,Variable income or refund
+TXN0459,2026-09-02 00:00:00,September,9,2026,Checking,Withdrawal,Housing,Rent,Apartment Rent,Bank Transfer,1643.08,Expense,Needs,Yes,Monthly rent
+TXN0460,2026-09-02 00:00:00,September,9,2026,Savings,Withdrawal,Savings,Emergency Fund,Savings Transfer,Bank Transfer,489.75,Expense,Savings,Yes,Monthly savings transfer
+TXN0461,2026-09-03 00:00:00,September,9,2026,Checking,Deposit,Side Income,Freelance,Freelance Client,Direct Deposit,470.35,Income,Income,No,Variable income or refund
+TXN0462,2026-09-05 00:00:00,September,9,2026,Credit Card,Withdrawal,Utilities,Phone,Mobile Carrier,Credit Card,79.26,Expense,Needs,Yes,Monthly phone bill
+TXN0463,2026-09-05 00:00:00,September,9,2026,Credit Card,Withdrawal,Entertainment,Gaming,Xbox Store,Credit Card,18.43,Expense,Wants,No,Variable transaction
+TXN0464,2026-09-05 00:00:00,September,9,2026,Checking,Withdrawal,Groceries,Groceries,Walmart Grocery,Bank Transfer,58.23,Expense,Needs,No,Variable transaction
+TXN0465,2026-09-05 00:00:00,September,9,2026,Checking,Withdrawal,Transportation,Gas,Chevron,Debit Card,45.44,Expense,Needs,No,Variable transaction
+TXN0466,2026-09-06 00:00:00,September,9,2026,Credit Card,Withdrawal,Health,Fitness,Fitness App,Credit Card,36.62,Expense,Needs,Yes,Recurring expense
+TXN0467,2026-09-06 00:00:00,September,9,2026,Checking,Withdrawal,Shopping,Personal Items,Walgreens,Debit Card,9.12,Expense,Wants,No,Variable transaction
+TXN0468,2026-09-08 00:00:00,September,9,2026,Credit Card,Deposit,Refund,Cash Back,Credit Card Rewards,Credit Card,105.81,Income,Income,No,Variable income or refund
+TXN0469,2026-09-08 00:00:00,September,9,2026,Credit Card,Withdrawal,Entertainment,Movies,Cinema,Credit Card,34.62,Expense,Wants,No,Variable transaction
+TXN0470,2026-09-08 00:00:00,September,9,2026,Checking,Withdrawal,Transportation,Rideshare,Uber,Debit Card,29.13,Expense,Needs,No,Variable transaction
+TXN0471,2026-09-11 00:00:00,September,9,2026,Checking,Withdrawal,Dining Out,Fast Food,Chipotle,Debit Card,8.33,Expense,Wants,No,Variable transaction
+TXN0472,2026-09-11 00:00:00,September,9,2026,Credit Card,Withdrawal,Dining Out,Fast Food,Chipotle,Credit Card,16.96,Expense,Wants,No,Variable transaction
+TXN0473,2026-09-13 00:00:00,September,9,2026,Checking,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Bank Transfer,554.48,Expense,Needs,Yes,Monthly credit card payment
+TXN0474,2026-09-13 00:00:00,September,9,2026,Checking,Withdrawal,Shopping,Personal Items,CVS,Debit Card,28.37,Expense,Wants,No,Variable transaction
+TXN0475,2026-09-14 00:00:00,September,9,2026,Credit Card,Withdrawal,Shopping,Clothing,Nike,Credit Card,120.35,Expense,Wants,No,Variable transaction
+TXN0476,2026-09-15 00:00:00,September,9,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2371.24,Income,Income,Yes,Recurring paycheck
+TXN0477,2026-09-15 00:00:00,September,9,2026,Credit Card,Withdrawal,Dining Out,Coffee,Starbucks,Credit Card,11.53,Expense,Wants,No,Variable transaction
+TXN0478,2026-09-17 00:00:00,September,9,2026,Credit Card,Withdrawal,Utilities,Internet,Internet Provider,Credit Card,69.37,Expense,Needs,Yes,Monthly internet bill
+TXN0479,2026-09-17 00:00:00,September,9,2026,Credit Card,Transfer,Savings,Investments,Brokerage Transfer,Credit Card,337.91,Expense,Savings,No,Variable transaction
+TXN0480,2026-09-17 00:00:00,September,9,2026,Checking,Withdrawal,Dining Out,Coffee,Dunkin,Bank Transfer,8.95,Expense,Wants,No,Variable transaction
+TXN0481,2026-09-17 00:00:00,September,9,2026,Credit Card,Withdrawal,Dining Out,Restaurant,Burger House,Credit Card,64.42,Expense,Wants,No,Variable transaction
+TXN0482,2026-09-18 00:00:00,September,9,2026,Checking,Withdrawal,Groceries,Household Supplies,Costco,Bank Transfer,45.68,Expense,Needs,No,Variable transaction
+TXN0483,2026-09-18 00:00:00,September,9,2026,Checking,Withdrawal,Entertainment,Movies,Online Rental,Digital Wallet,12.64,Expense,Wants,No,Variable transaction
+TXN0484,2026-09-19 00:00:00,September,9,2026,Checking,Withdrawal,Utilities,Electric,Electric Utility,Bank Transfer,99.29,Expense,Needs,Yes,Monthly electric bill
+TXN0485,2026-09-19 00:00:00,September,9,2026,Credit Card,Withdrawal,Subscriptions,Streaming,StreamFlix,Credit Card,19.46,Expense,Wants,Yes,Monthly streaming subscription
+TXN0486,2026-09-19 00:00:00,September,9,2026,Checking,Withdrawal,Shopping,Personal Items,Target,Cash,72.7,Expense,Wants,No,Variable transaction
+TXN0487,2026-09-19 00:00:00,September,9,2026,Checking,Withdrawal,Dining Out,Coffee,Local Cafe,Debit Card,12.33,Expense,Wants,No,Variable transaction
+TXN0488,2026-09-19 00:00:00,September,9,2026,Credit Card,Withdrawal,Entertainment,Movies,Cinema,Credit Card,7.17,Expense,Wants,No,Variable transaction
+TXN0489,2026-09-19 00:00:00,September,9,2026,Checking,Withdrawal,Transportation,Auto Maintenance,Oil Change Express,Digital Wallet,187.44,Expense,Needs,No,Variable transaction
+TXN0490,2026-09-20 00:00:00,September,9,2026,Credit Card,Withdrawal,Health,Fitness,Gym Membership,Credit Card,31.8,Expense,Needs,Yes,Monthly gym membership
+TXN0491,2026-09-21 00:00:00,September,9,2026,Checking,Withdrawal,Shopping,Electronics,Apple,Bank Transfer,327.86,Expense,Wants,No,Variable transaction
+TXN0492,2026-09-21 00:00:00,September,9,2026,Checking,Withdrawal,Groceries,Household Supplies,Walmart,Bank Transfer,51.27,Expense,Needs,No,Variable transaction
+TXN0493,2026-09-22 00:00:00,September,9,2026,Credit Card,Withdrawal,Subscriptions,Music,Spotify,Credit Card,11.43,Expense,Wants,Yes,Monthly music subscription
+TXN0494,2026-09-22 00:00:00,September,9,2026,Credit Card,Withdrawal,Shopping,Clothing,H&M,Credit Card,37.13,Expense,Wants,No,Variable transaction
+TXN0495,2026-09-22 00:00:00,September,9,2026,Checking,Withdrawal,Miscellaneous,Gifts,Gift Shop,Debit Card,65.65,Expense,Wants,No,Variable transaction
+TXN0496,2026-09-22 00:00:00,September,9,2026,Credit Card,Withdrawal,Dining Out,Fast Food,Wendy's,Credit Card,9.9,Expense,Wants,No,Variable transaction
+TXN0497,2026-09-22 00:00:00,September,9,2026,Credit Card,Withdrawal,Shopping,Personal Items,Target,Credit Card,30.82,Expense,Wants,No,Variable transaction
+TXN0498,2026-09-24 00:00:00,September,9,2026,Credit Card,Withdrawal,Housing,Renters Insurance,Insurance Co.,Credit Card,20.93,Expense,Needs,Yes,Monthly renters insurance
+TXN0499,2026-09-24 00:00:00,September,9,2026,Checking,Withdrawal,Miscellaneous,Gifts,Gift Shop,Bank Transfer,117.41,Expense,Wants,No,Variable transaction
+TXN0500,2026-09-24 00:00:00,September,9,2026,Credit Card,Withdrawal,Groceries,Household Supplies,Target,Credit Card,25.98,Expense,Needs,No,Variable transaction
+TXN0501,2026-09-24 00:00:00,September,9,2026,Credit Card,Withdrawal,Entertainment,Movies,Cinema,Credit Card,23.34,Expense,Wants,No,Variable transaction
+TXN0502,2026-09-27 00:00:00,September,9,2026,Savings,Transfer,Savings,Investments,Brokerage Transfer,Debit Card,156.81,Expense,Savings,No,Variable transaction
+TXN0503,2026-09-28 00:00:00,September,9,2026,Credit Card,Withdrawal,Shopping,Personal Items,Target,Credit Card,10.19,Expense,Wants,No,Variable transaction
+TXN0504,2026-09-28 00:00:00,September,9,2026,Credit Card,Withdrawal,Shopping,Clothing,Nike,Credit Card,124.24,Expense,Wants,No,Variable transaction
+TXN0505,2026-09-29 00:00:00,September,9,2026,Checking,Withdrawal,Transportation,Gas,7-Eleven Fuel,Debit Card,72.33,Expense,Needs,No,Variable transaction
+TXN0506,2026-09-29 00:00:00,September,9,2026,Credit Card,Withdrawal,Transportation,Rideshare,Lyft,Credit Card,38.75,Expense,Needs,No,Variable transaction
+TXN0507,2026-09-30 00:00:00,September,9,2026,Checking,Withdrawal,Entertainment,Movies,Online Rental,Digital Wallet,21.99,Expense,Wants,No,Variable transaction
+TXN0508,2026-10-01 00:00:00,October,10,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2573.91,Income,Income,Yes,Recurring paycheck
+TXN0509,2026-10-01 00:00:00,October,10,2026,Checking,Withdrawal,Dining Out,Fast Food,Chick-fil-A,Debit Card,11.6,Expense,Wants,No,Variable transaction
+TXN0510,2026-10-01 00:00:00,October,10,2026,Credit Card,Withdrawal,Groceries,Groceries,Walmart Grocery,Credit Card,148.93,Expense,Needs,No,Variable transaction
+TXN0511,2026-10-01 00:00:00,October,10,2026,Checking,Withdrawal,Dining Out,Coffee,Local Cafe,Bank Transfer,11.56,Expense,Wants,No,Variable transaction
+TXN0512,2026-10-01 00:00:00,October,10,2026,Checking,Withdrawal,Transportation,Rideshare,Uber,Bank Transfer,33.05,Expense,Needs,No,Variable transaction
+TXN0513,2026-10-01 00:00:00,October,10,2026,Credit Card,Withdrawal,Dining Out,Restaurant,Pizza Palace,Credit Card,64.89,Expense,Wants,No,Variable transaction
+TXN0514,2026-10-02 00:00:00,October,10,2026,Checking,Withdrawal,Dining Out,Coffee,Local Cafe,Digital Wallet,5.26,Expense,Wants,No,Variable transaction
+TXN0515,2026-10-02 00:00:00,October,10,2026,Credit Card,Withdrawal,Miscellaneous,Fees,Service Fee,Credit Card,10.63,Expense,Wants,No,Variable transaction
+TXN0516,2026-10-03 00:00:00,October,10,2026,Checking,Withdrawal,Transportation,Auto Maintenance,Auto Shop,Cash,262.87,Expense,Needs,No,Variable transaction
+TXN0517,2026-10-03 00:00:00,October,10,2026,Checking,Withdrawal,Transportation,Rideshare,Lyft,Debit Card,15.95,Expense,Needs,No,Variable transaction
+TXN0518,2026-10-04 00:00:00,October,10,2026,Checking,Withdrawal,Entertainment,Gaming,Steam,Debit Card,85.11,Expense,Wants,No,Variable transaction
+TXN0519,2026-10-04 00:00:00,October,10,2026,Checking,Withdrawal,Groceries,Household Supplies,Target,Bank Transfer,50.03,Expense,Needs,No,Variable transaction
+TXN0520,2026-10-05 00:00:00,October,10,2026,Checking,Withdrawal,Housing,Rent,Apartment Rent,Bank Transfer,1575.1,Expense,Needs,Yes,Monthly rent
+TXN0521,2026-10-05 00:00:00,October,10,2026,Credit Card,Withdrawal,Housing,Renters Insurance,Insurance Co.,Credit Card,19.57,Expense,Needs,Yes,Monthly renters insurance
+TXN0522,2026-10-05 00:00:00,October,10,2026,Checking,Withdrawal,Shopping,Clothing,Target,Cash,40.1,Expense,Wants,No,Variable transaction
+TXN0523,2026-10-05 00:00:00,October,10,2026,Savings,Transfer,Savings,Emergency Fund,Savings Transfer,Debit Card,157.09,Expense,Savings,No,Recurring expense
+TXN0524,2026-10-07 00:00:00,October,10,2026,Checking,Withdrawal,Entertainment,Events,Ticket Seller,Bank Transfer,40.51,Expense,Wants,No,Variable transaction
+TXN0525,2026-10-08 00:00:00,October,10,2026,Credit Card,Withdrawal,Groceries,Household Supplies,Walmart,Credit Card,38.31,Expense,Needs,No,Variable transaction
+TXN0526,2026-10-08 00:00:00,October,10,2026,Credit Card,Withdrawal,Dining Out,Fast Food,Taco Bell,Credit Card,18.37,Expense,Wants,No,Variable transaction
+TXN0527,2026-10-08 00:00:00,October,10,2026,Credit Card,Withdrawal,Shopping,Personal Items,CVS,Credit Card,49.84,Expense,Wants,No,Variable transaction
+TXN0528,2026-10-09 00:00:00,October,10,2026,Checking,Withdrawal,Utilities,Electric,Electric Utility,Bank Transfer,109.48,Expense,Needs,Yes,Monthly electric bill
+TXN0529,2026-10-09 00:00:00,October,10,2026,Checking,Withdrawal,Health,Doctor,Clinic,Bank Transfer,109.35,Expense,Needs,No,Variable transaction
+TXN0530,2026-10-09 00:00:00,October,10,2026,Checking,Withdrawal,Entertainment,Movies,Online Rental,Cash,8.24,Expense,Wants,No,Variable transaction
+TXN0531,2026-10-10 00:00:00,October,10,2026,Credit Card,Withdrawal,Utilities,Phone,Mobile Carrier,Credit Card,75.08,Expense,Needs,Yes,Monthly phone bill
+TXN0532,2026-10-10 00:00:00,October,10,2026,Checking,Withdrawal,Shopping,Personal Items,Target,Bank Transfer,47.01,Expense,Wants,No,Variable transaction
+TXN0533,2026-10-11 00:00:00,October,10,2026,Checking,Withdrawal,Shopping,Clothing,Nike,Bank Transfer,151.96,Expense,Wants,No,Variable transaction
+TXN0534,2026-10-12 00:00:00,October,10,2026,Checking,Withdrawal,Dining Out,Fast Food,McDonald's,Bank Transfer,20.3,Expense,Wants,No,Variable transaction
+TXN0535,2026-10-13 00:00:00,October,10,2026,Credit Card,Withdrawal,Dining Out,Coffee,Starbucks,Credit Card,9.16,Expense,Wants,No,Variable transaction
+TXN0536,2026-10-14 00:00:00,October,10,2026,Checking,Withdrawal,Transportation,Auto Maintenance,Oil Change Express,Cash,229.6,Expense,Needs,No,Variable transaction
+TXN0537,2026-10-15 00:00:00,October,10,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2523.61,Income,Income,Yes,Recurring paycheck
+TXN0538,2026-10-15 00:00:00,October,10,2026,Credit Card,Withdrawal,Subscriptions,Streaming,MaxPlay,Credit Card,10.08,Expense,Wants,Yes,Monthly streaming subscription
+TXN0539,2026-10-15 00:00:00,October,10,2026,Checking,Withdrawal,Transportation,Auto Maintenance,Tire Center,Bank Transfer,255.15,Expense,Needs,No,Variable transaction
+TXN0540,2026-10-15 00:00:00,October,10,2026,Credit Card,Withdrawal,Shopping,Clothing,H&M,Credit Card,115.72,Expense,Wants,No,Variable transaction
+TXN0541,2026-10-16 00:00:00,October,10,2026,Checking,Withdrawal,Groceries,Groceries,Publix,Debit Card,97.53,Expense,Needs,No,Variable transaction
+TXN0542,2026-10-16 00:00:00,October,10,2026,Checking,Withdrawal,Groceries,Household Supplies,Costco,Bank Transfer,32.61,Expense,Needs,No,Variable transaction
+TXN0543,2026-10-17 00:00:00,October,10,2026,Credit Card,Withdrawal,Dining Out,Fast Food,Chipotle,Credit Card,24.48,Expense,Wants,No,Variable transaction
+TXN0544,2026-10-17 00:00:00,October,10,2026,Checking,Withdrawal,Subscriptions,Gaming,Nintendo Online,Digital Wallet,14.54,Expense,Wants,No,Recurring expense
+TXN0545,2026-10-18 00:00:00,October,10,2026,Checking,Withdrawal,Transportation,Rideshare,Lyft,Debit Card,37.37,Expense,Needs,No,Variable transaction
+TXN0546,2026-10-18 00:00:00,October,10,2026,Checking,Withdrawal,Groceries,Household Supplies,Costco,Bank Transfer,60.88,Expense,Needs,No,Variable transaction
+TXN0547,2026-10-19 00:00:00,October,10,2026,Checking,Withdrawal,Groceries,Groceries,Costco,Bank Transfer,30.11,Expense,Needs,No,Variable transaction
+TXN0548,2026-10-19 00:00:00,October,10,2026,Credit Card,Withdrawal,Dining Out,Restaurant,Local Grill,Credit Card,55.6,Expense,Wants,No,Variable transaction
+TXN0549,2026-10-19 00:00:00,October,10,2026,Checking,Withdrawal,Groceries,Groceries,Walmart Grocery,Debit Card,137.81,Expense,Needs,No,Variable transaction
+TXN0550,2026-10-20 00:00:00,October,10,2026,Credit Card,Withdrawal,Health,Fitness,Gym Membership,Credit Card,34.65,Expense,Needs,Yes,Monthly gym membership
+TXN0551,2026-10-20 00:00:00,October,10,2026,Credit Card,Withdrawal,Transportation,Auto Maintenance,Tire Center,Credit Card,188.11,Expense,Needs,No,Variable transaction
+TXN0552,2026-10-20 00:00:00,October,10,2026,Checking,Withdrawal,Shopping,Clothing,H&M,Debit Card,128.89,Expense,Wants,No,Variable transaction
+TXN0553,2026-10-21 00:00:00,October,10,2026,Checking,Withdrawal,Transportation,Gas,Chevron,Debit Card,42.43,Expense,Needs,No,Variable transaction
+TXN0554,2026-10-23 00:00:00,October,10,2026,Credit Card,Withdrawal,Subscriptions,Music,Apple Music,Credit Card,11.43,Expense,Wants,Yes,Monthly music subscription
+TXN0555,2026-10-23 00:00:00,October,10,2026,Checking,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Bank Transfer,287.9,Expense,Needs,Yes,Monthly credit card payment
+TXN0556,2026-10-23 00:00:00,October,10,2026,Credit Card,Withdrawal,Entertainment,Gaming,PlayStation Store,Credit Card,27.58,Expense,Wants,No,Variable transaction
+TXN0557,2026-10-24 00:00:00,October,10,2026,Credit Card,Withdrawal,Health,Doctor,Clinic,Credit Card,118.5,Expense,Needs,No,Variable transaction
+TXN0558,2026-10-25 00:00:00,October,10,2026,Credit Card,Withdrawal,Utilities,Internet,Internet Provider,Credit Card,80.24,Expense,Needs,Yes,Monthly internet bill
+TXN0559,2026-10-25 00:00:00,October,10,2026,Checking,Withdrawal,Transportation,Gas,Chevron,Bank Transfer,55.83,Expense,Needs,No,Variable transaction
+TXN0560,2026-10-25 00:00:00,October,10,2026,Credit Card,Withdrawal,Dining Out,Coffee,Dunkin,Credit Card,14.09,Expense,Wants,No,Variable transaction
+TXN0561,2026-10-25 00:00:00,October,10,2026,Credit Card,Withdrawal,Dining Out,Restaurant,Pizza Palace,Credit Card,20.84,Expense,Wants,No,Variable transaction
+TXN0562,2026-10-26 00:00:00,October,10,2026,Savings,Withdrawal,Savings,Emergency Fund,Savings Transfer,Bank Transfer,365.63,Expense,Savings,Yes,Monthly savings transfer
+TXN0563,2026-10-26 00:00:00,October,10,2026,Credit Card,Withdrawal,Groceries,Groceries,Costco,Credit Card,112.72,Expense,Needs,No,Variable transaction
+TXN0564,2026-10-26 00:00:00,October,10,2026,Credit Card,Withdrawal,Dining Out,Restaurant,Local Grill,Credit Card,43.31,Expense,Wants,No,Variable transaction
+TXN0565,2026-10-26 00:00:00,October,10,2026,Checking,Withdrawal,Transportation,Auto Maintenance,Tire Center,Bank Transfer,191.29,Expense,Needs,No,Variable transaction
+TXN0566,2026-10-27 00:00:00,October,10,2026,Checking,Withdrawal,Transportation,Auto Maintenance,Oil Change Express,Debit Card,100.71,Expense,Needs,No,Variable transaction
+TXN0567,2026-10-28 00:00:00,October,10,2026,Credit Card,Withdrawal,Groceries,Household Supplies,Target,Credit Card,72.16,Expense,Needs,No,Variable transaction
+TXN0568,2026-10-28 00:00:00,October,10,2026,Checking,Withdrawal,Shopping,Personal Items,Target,Debit Card,72.78,Expense,Wants,No,Variable transaction
+TXN0569,2026-10-30 00:00:00,October,10,2026,Credit Card,Withdrawal,Entertainment,Events,Concert Venue,Credit Card,153.51,Expense,Wants,No,Variable transaction
+TXN0570,2026-10-30 00:00:00,October,10,2026,Checking,Withdrawal,Groceries,Household Supplies,Costco,Digital Wallet,89.16,Expense,Needs,No,Variable transaction
+TXN0571,2026-10-31 00:00:00,October,10,2026,Credit Card,Transfer,Savings,Investments,Brokerage Transfer,Credit Card,191.45,Expense,Savings,No,Variable transaction
+TXN0572,2026-10-31 00:00:00,October,10,2026,Credit Card,Withdrawal,Transportation,Gas,7-Eleven Fuel,Credit Card,69.84,Expense,Needs,No,Variable transaction
+TXN0573,2026-10-31 00:00:00,October,10,2026,Credit Card,Withdrawal,Groceries,Groceries,Trader Market,Credit Card,95.11,Expense,Needs,No,Variable transaction
+TXN0574,2026-10-31 00:00:00,October,10,2026,Credit Card,Withdrawal,Entertainment,Movies,Cinema,Credit Card,6.98,Expense,Wants,No,Variable transaction
+TXN0575,2026-11-01 00:00:00,November,11,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2761.6,Income,Income,Yes,Recurring paycheck
+TXN0576,2026-11-01 00:00:00,November,11,2026,Checking,Withdrawal,Shopping,Electronics,Apple,Debit Card,85.22,Expense,Wants,No,Variable transaction
+TXN0577,2026-11-01 00:00:00,November,11,2026,Credit Card,Withdrawal,Health,Pharmacy,CVS,Credit Card,30.75,Expense,Needs,No,Variable transaction
+TXN0578,2026-11-02 00:00:00,November,11,2026,Checking,Withdrawal,Transportation,Auto Maintenance,Oil Change Express,Bank Transfer,81.23,Expense,Needs,No,Variable transaction
+TXN0579,2026-11-02 00:00:00,November,11,2026,Credit Card,Withdrawal,Dining Out,Restaurant,Pizza Palace,Credit Card,53.21,Expense,Wants,No,Variable transaction
+TXN0580,2026-11-02 00:00:00,November,11,2026,Checking,Withdrawal,Shopping,Electronics,Best Buy,Debit Card,59.68,Expense,Wants,No,Variable transaction
+TXN0581,2026-11-02 00:00:00,November,11,2026,Checking,Withdrawal,Shopping,Clothing,Nike,Debit Card,157.78,Expense,Wants,No,Variable transaction
+TXN0582,2026-11-03 00:00:00,November,11,2026,Credit Card,Withdrawal,Health,Fitness,Gym Membership,Credit Card,28.41,Expense,Needs,Yes,Monthly gym membership
+TXN0583,2026-11-03 00:00:00,November,11,2026,Credit Card,Withdrawal,Dining Out,Coffee,Dunkin,Credit Card,5.89,Expense,Wants,No,Variable transaction
+TXN0584,2026-11-04 00:00:00,November,11,2026,Credit Card,Withdrawal,Groceries,Groceries,Walmart Grocery,Credit Card,67.67,Expense,Needs,No,Variable transaction
+TXN0585,2026-11-04 00:00:00,November,11,2026,Credit Card,Withdrawal,Shopping,Clothing,Amazon,Credit Card,114.76,Expense,Wants,No,Variable transaction
+TXN0586,2026-11-05 00:00:00,November,11,2026,Credit Card,Withdrawal,Subscriptions,Music,Apple Music,Credit Card,11.04,Expense,Wants,Yes,Monthly music subscription
+TXN0587,2026-11-06 00:00:00,November,11,2026,Checking,Withdrawal,Housing,Rent,Apartment Rent,Bank Transfer,1702.7,Expense,Needs,Yes,Monthly rent
+TXN0588,2026-11-06 00:00:00,November,11,2026,Credit Card,Withdrawal,Transportation,Rideshare,Lyft,Credit Card,52.58,Expense,Needs,No,Variable transaction
+TXN0589,2026-11-06 00:00:00,November,11,2026,Checking,Withdrawal,Entertainment,Movies,Online Rental,Debit Card,10.01,Expense,Wants,No,Variable transaction
+TXN0590,2026-11-07 00:00:00,November,11,2026,Checking,Deposit,Side Income,Freelance,Freelance Client,Direct Deposit,411.32,Income,Income,No,Variable income or refund
+TXN0591,2026-11-07 00:00:00,November,11,2026,Checking,Withdrawal,Dining Out,Restaurant,Sushi Spot,Bank Transfer,70.93,Expense,Wants,No,Variable transaction
+TXN0592,2026-11-08 00:00:00,November,11,2026,Credit Card,Withdrawal,Dining Out,Coffee,Dunkin,Credit Card,14.11,Expense,Wants,No,Variable transaction
+TXN0593,2026-11-08 00:00:00,November,11,2026,Credit Card,Withdrawal,Health,Fitness,Gym Membership,Credit Card,24.21,Expense,Needs,No,Recurring expense
+TXN0594,2026-11-08 00:00:00,November,11,2026,Checking,Deposit,Side Income,Freelance,Freelance Client,Direct Deposit,529.84,Income,Income,No,Variable income or refund
+TXN0595,2026-11-08 00:00:00,November,11,2026,Credit Card,Withdrawal,Shopping,Clothing,H&M,Credit Card,75.17,Expense,Wants,No,Variable transaction
+TXN0596,2026-11-08 00:00:00,November,11,2026,Checking,Withdrawal,Dining Out,Fast Food,Wendy's,Digital Wallet,13.14,Expense,Wants,No,Variable transaction
+TXN0597,2026-11-09 00:00:00,November,11,2026,Checking,Withdrawal,Utilities,Electric,Electric Utility,Bank Transfer,93.19,Expense,Needs,Yes,Monthly electric bill
+TXN0598,2026-11-09 00:00:00,November,11,2026,Checking,Withdrawal,Subscriptions,Gaming,Nintendo Online,Debit Card,8.94,Expense,Wants,Yes,Recurring expense
+TXN0599,2026-11-10 00:00:00,November,11,2026,Credit Card,Deposit,Refund,Cash Back,Credit Card Rewards,Credit Card,94.63,Income,Income,No,Variable income or refund
+TXN0600,2026-11-11 00:00:00,November,11,2026,Credit Card,Withdrawal,Utilities,Internet,Internet Provider,Credit Card,67.23,Expense,Needs,Yes,Monthly internet bill
+TXN0601,2026-11-11 00:00:00,November,11,2026,Checking,Withdrawal,Shopping,Personal Items,Target,Cash,31.26,Expense,Wants,No,Variable transaction
+TXN0602,2026-11-12 00:00:00,November,11,2026,Credit Card,Transfer,Savings,Investments,Brokerage Transfer,Credit Card,269.95,Expense,Savings,No,Variable transaction
+TXN0603,2026-11-15 00:00:00,November,11,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2745.12,Income,Income,Yes,Recurring paycheck
+TXN0604,2026-11-15 00:00:00,November,11,2026,Credit Card,Withdrawal,Dining Out,Restaurant,Pizza Palace,Credit Card,39.25,Expense,Wants,No,Variable transaction
+TXN0605,2026-11-16 00:00:00,November,11,2026,Checking,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Bank Transfer,267.3,Expense,Needs,Yes,Monthly credit card payment
+TXN0606,2026-11-16 00:00:00,November,11,2026,Checking,Withdrawal,Shopping,Personal Items,Target,Digital Wallet,66.68,Expense,Wants,No,Variable transaction
+TXN0607,2026-11-17 00:00:00,November,11,2026,Credit Card,Withdrawal,Debt Payment,Loan Payment,Loan Servicer,Credit Card,314.66,Expense,Needs,No,Recurring expense
+TXN0608,2026-11-17 00:00:00,November,11,2026,Credit Card,Withdrawal,Health,Doctor,Medical Office,Credit Card,37.56,Expense,Needs,No,Variable transaction
+TXN0609,2026-11-18 00:00:00,November,11,2026,Credit Card,Withdrawal,Utilities,Phone,Mobile Carrier,Credit Card,87.81,Expense,Needs,Yes,Monthly phone bill
+TXN0610,2026-11-18 00:00:00,November,11,2026,Savings,Withdrawal,Savings,Emergency Fund,Savings Transfer,Bank Transfer,160.49,Expense,Savings,Yes,Monthly savings transfer
+TXN0611,2026-11-18 00:00:00,November,11,2026,Checking,Withdrawal,Groceries,Household Supplies,Walmart,Debit Card,36.78,Expense,Needs,No,Variable transaction
+TXN0612,2026-11-18 00:00:00,November,11,2026,Credit Card,Withdrawal,Entertainment,Gaming,Steam,Credit Card,64.57,Expense,Wants,No,Variable transaction
+TXN0613,2026-11-19 00:00:00,November,11,2026,Credit Card,Withdrawal,Dining Out,Coffee,Local Cafe,Credit Card,12.88,Expense,Wants,No,Variable transaction
+TXN0614,2026-11-21 00:00:00,November,11,2026,Credit Card,Withdrawal,Housing,Renters Insurance,Insurance Co.,Credit Card,19.28,Expense,Needs,Yes,Monthly renters insurance
+TXN0615,2026-11-21 00:00:00,November,11,2026,Credit Card,Withdrawal,Shopping,Personal Items,Target,Credit Card,53.88,Expense,Wants,No,Variable transaction
+TXN0616,2026-11-21 00:00:00,November,11,2026,Credit Card,Withdrawal,Shopping,Clothing,H&M,Credit Card,43.33,Expense,Wants,No,Variable transaction
+TXN0617,2026-11-22 00:00:00,November,11,2026,Credit Card,Deposit,Refund,Cash Back,Credit Card Rewards,Credit Card,99.37,Income,Income,No,Variable income or refund
+TXN0618,2026-11-22 00:00:00,November,11,2026,Checking,Withdrawal,Dining Out,Fast Food,Chipotle,Debit Card,13.34,Expense,Wants,No,Variable transaction
+TXN0619,2026-11-23 00:00:00,November,11,2026,Checking,Withdrawal,Health,Fitness,Gym Membership,Debit Card,44.28,Expense,Needs,Yes,Recurring expense
+TXN0620,2026-11-23 00:00:00,November,11,2026,Credit Card,Withdrawal,Groceries,Groceries,Trader Market,Credit Card,96.16,Expense,Needs,No,Variable transaction
+TXN0621,2026-11-24 00:00:00,November,11,2026,Checking,Withdrawal,Transportation,Auto Maintenance,Auto Shop,Debit Card,640.41,Expense,Needs,No,Variable transaction
+TXN0622,2026-11-24 00:00:00,November,11,2026,Credit Card,Withdrawal,Groceries,Groceries,Costco,Credit Card,97.01,Expense,Needs,No,Variable transaction
+TXN0623,2026-11-24 00:00:00,November,11,2026,Checking,Withdrawal,Shopping,Personal Items,Walgreens,Debit Card,12.85,Expense,Wants,No,Variable transaction
+TXN0624,2026-11-25 00:00:00,November,11,2026,Checking,Withdrawal,Entertainment,Events,Ticket Seller,Bank Transfer,48.03,Expense,Wants,No,Variable transaction
+TXN0625,2026-11-25 00:00:00,November,11,2026,Credit Card,Withdrawal,Transportation,Auto Maintenance,Tire Center,Credit Card,119.75,Expense,Needs,No,Variable transaction
+TXN0626,2026-11-25 00:00:00,November,11,2026,Checking,Withdrawal,Miscellaneous,Fees,Bank Fee,Debit Card,20.98,Expense,Wants,No,Variable transaction
+TXN0627,2026-11-26 00:00:00,November,11,2026,Checking,Withdrawal,Shopping,Electronics,Amazon,Digital Wallet,140.03,Expense,Wants,No,Variable transaction
+TXN0628,2026-11-27 00:00:00,November,11,2026,Credit Card,Withdrawal,Subscriptions,Streaming,DisneyStream,Credit Card,9.83,Expense,Wants,Yes,Monthly streaming subscription
+TXN0629,2026-11-28 00:00:00,November,11,2026,Checking,Withdrawal,Shopping,Electronics,Best Buy,Bank Transfer,192.47,Expense,Wants,No,Variable transaction
+TXN0630,2026-11-28 00:00:00,November,11,2026,Checking,Withdrawal,Entertainment,Gaming,PlayStation Store,Bank Transfer,49.67,Expense,Wants,No,Variable transaction
+TXN0631,2026-11-29 00:00:00,November,11,2026,Checking,Withdrawal,Transportation,Gas,Wawa,Debit Card,54.32,Expense,Needs,No,Variable transaction
+TXN0632,2026-11-29 00:00:00,November,11,2026,Credit Card,Withdrawal,Entertainment,Events,Ticket Seller,Credit Card,310.78,Expense,Wants,No,Variable transaction
+TXN0633,2026-11-29 00:00:00,November,11,2026,Checking,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Cash,618.7,Expense,Needs,No,Recurring expense
+TXN0634,2026-11-29 00:00:00,November,11,2026,Credit Card,Withdrawal,Entertainment,Movies,Cinema,Credit Card,28.26,Expense,Wants,No,Variable transaction
+TXN0635,2026-11-29 00:00:00,November,11,2026,Credit Card,Withdrawal,Health,Pharmacy,Walgreens,Credit Card,9.49,Expense,Needs,No,Variable transaction
+TXN0636,2026-11-29 00:00:00,November,11,2026,Savings,Transfer,Savings,Investments,Brokerage Transfer,Digital Wallet,170.52,Expense,Savings,No,Variable transaction
+TXN0637,2026-11-30 00:00:00,November,11,2026,Credit Card,Deposit,Refund,Cash Back,Credit Card Rewards,Credit Card,62.29,Income,Income,No,Variable income or refund
+TXN0638,2026-12-01 00:00:00,December,12,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2689.12,Income,Income,Yes,Recurring paycheck
+TXN0639,2026-12-02 00:00:00,December,12,2026,Checking,Withdrawal,Shopping,Clothing,H&M,Debit Card,146.38,Expense,Wants,No,Variable transaction
+TXN0640,2026-12-02 00:00:00,December,12,2026,Savings,Transfer,Savings,Investments,Brokerage Transfer,Debit Card,134.74,Expense,Savings,No,Variable transaction
+TXN0641,2026-12-03 00:00:00,December,12,2026,Checking,Withdrawal,Shopping,Electronics,Amazon,Bank Transfer,628.4,Expense,Wants,No,Variable transaction
+TXN0642,2026-12-03 00:00:00,December,12,2026,Checking,Deposit,Side Income,Freelance,Freelance Client,Direct Deposit,297.16,Income,Income,No,Variable income or refund
+TXN0643,2026-12-04 00:00:00,December,12,2026,Credit Card,Withdrawal,Utilities,Phone,Mobile Carrier,Credit Card,73.31,Expense,Needs,Yes,Monthly phone bill
+TXN0644,2026-12-04 00:00:00,December,12,2026,Checking,Withdrawal,Entertainment,Events,Concert Venue,Debit Card,175.43,Expense,Wants,No,Variable transaction
+TXN0645,2026-12-04 00:00:00,December,12,2026,Checking,Withdrawal,Dining Out,Restaurant,Sushi Spot,Debit Card,61.14,Expense,Wants,No,Variable transaction
+TXN0646,2026-12-05 00:00:00,December,12,2026,Credit Card,Withdrawal,Subscriptions,Music,Spotify,Credit Card,10.15,Expense,Wants,Yes,Monthly music subscription
+TXN0647,2026-12-05 00:00:00,December,12,2026,Checking,Withdrawal,Dining Out,Restaurant,Local Grill,Digital Wallet,58.19,Expense,Wants,No,Variable transaction
+TXN0648,2026-12-08 00:00:00,December,12,2026,Checking,Withdrawal,Groceries,Groceries,Publix,Bank Transfer,67.3,Expense,Needs,No,Variable transaction
+TXN0649,2026-12-08 00:00:00,December,12,2026,Checking,Withdrawal,Transportation,Auto Maintenance,Oil Change Express,Debit Card,245.81,Expense,Needs,No,Variable transaction
+TXN0650,2026-12-08 00:00:00,December,12,2026,Credit Card,Withdrawal,Transportation,Rideshare,Uber,Credit Card,32.49,Expense,Needs,No,Variable transaction
+TXN0651,2026-12-09 00:00:00,December,12,2026,Checking,Withdrawal,Transportation,Gas,Wawa,Debit Card,45.53,Expense,Needs,No,Variable transaction
+TXN0652,2026-12-09 00:00:00,December,12,2026,Checking,Withdrawal,Dining Out,Restaurant,Pizza Palace,Debit Card,72.97,Expense,Wants,No,Variable transaction
+TXN0653,2026-12-09 00:00:00,December,12,2026,Credit Card,Withdrawal,Dining Out,Restaurant,Burger House,Credit Card,61.72,Expense,Wants,No,Variable transaction
+TXN0654,2026-12-09 00:00:00,December,12,2026,Credit Card,Deposit,Refund,Cash Back,Credit Card Rewards,Credit Card,41.22,Income,Income,No,Variable income or refund
+TXN0655,2026-12-11 00:00:00,December,12,2026,Checking,Withdrawal,Housing,Rent,Apartment Rent,Bank Transfer,1742.76,Expense,Needs,Yes,Monthly rent
+TXN0656,2026-12-11 00:00:00,December,12,2026,Credit Card,Withdrawal,Dining Out,Fast Food,Taco Bell,Credit Card,24.28,Expense,Wants,No,Variable transaction
+TXN0657,2026-12-11 00:00:00,December,12,2026,Checking,Withdrawal,Shopping,Electronics,Amazon,Bank Transfer,293.85,Expense,Wants,No,Variable transaction
+TXN0658,2026-12-12 00:00:00,December,12,2026,Credit Card,Withdrawal,Housing,Renters Insurance,Insurance Co.,Credit Card,21.03,Expense,Needs,Yes,Monthly renters insurance
+TXN0659,2026-12-12 00:00:00,December,12,2026,Credit Card,Withdrawal,Groceries,Household Supplies,Target,Credit Card,37.05,Expense,Needs,No,Variable transaction
+TXN0660,2026-12-12 00:00:00,December,12,2026,Credit Card,Withdrawal,Dining Out,Coffee,Starbucks,Credit Card,4.78,Expense,Wants,No,Variable transaction
+TXN0661,2026-12-13 00:00:00,December,12,2026,Credit Card,Withdrawal,Shopping,Clothing,Nike,Credit Card,66.95,Expense,Wants,No,Variable transaction
+TXN0662,2026-12-14 00:00:00,December,12,2026,Credit Card,Withdrawal,Transportation,Gas,Chevron,Credit Card,58.16,Expense,Needs,No,Variable transaction
+TXN0663,2026-12-14 00:00:00,December,12,2026,Checking,Withdrawal,Entertainment,Gaming,PlayStation Store,Digital Wallet,36.33,Expense,Wants,No,Variable transaction
+TXN0664,2026-12-14 00:00:00,December,12,2026,Checking,Withdrawal,Dining Out,Restaurant,Burger House,Bank Transfer,58.03,Expense,Wants,No,Variable transaction
+TXN0665,2026-12-14 00:00:00,December,12,2026,Credit Card,Withdrawal,Dining Out,Coffee,Local Cafe,Credit Card,6.25,Expense,Wants,No,Variable transaction
+TXN0666,2026-12-14 00:00:00,December,12,2026,Checking,Withdrawal,Groceries,Household Supplies,Costco,Bank Transfer,44.82,Expense,Needs,No,Variable transaction
+TXN0667,2026-12-14 00:00:00,December,12,2026,Credit Card,Withdrawal,Groceries,Groceries,Publix,Credit Card,53.69,Expense,Needs,No,Variable transaction
+TXN0668,2026-12-15 00:00:00,December,12,2026,Checking,Deposit,Income,Primary Job,Employer Direct Deposit,Direct Deposit,2576.47,Income,Income,Yes,Recurring paycheck
+TXN0669,2026-12-16 00:00:00,December,12,2026,Credit Card,Deposit,Refund,Cash Back,Credit Card Rewards,Credit Card,137.51,Income,Income,No,Variable income or refund
+TXN0670,2026-12-16 00:00:00,December,12,2026,Credit Card,Withdrawal,Groceries,Groceries,Publix,Credit Card,119.67,Expense,Needs,No,Variable transaction
+TXN0671,2026-12-16 00:00:00,December,12,2026,Credit Card,Withdrawal,Transportation,Gas,7-Eleven Fuel,Credit Card,34.84,Expense,Needs,No,Variable transaction
+TXN0672,2026-12-16 00:00:00,December,12,2026,Checking,Withdrawal,Groceries,Household Supplies,Walmart,Debit Card,88.3,Expense,Needs,No,Variable transaction
+TXN0673,2026-12-18 00:00:00,December,12,2026,Credit Card,Transfer,Savings,Investments,Brokerage Transfer,Credit Card,375.46,Expense,Savings,No,Variable transaction
+TXN0674,2026-12-18 00:00:00,December,12,2026,Credit Card,Withdrawal,Health,Pharmacy,Walgreens,Credit Card,52.51,Expense,Needs,No,Variable transaction
+TXN0675,2026-12-19 00:00:00,December,12,2026,Credit Card,Withdrawal,Health,Fitness,Gym Membership,Credit Card,29.03,Expense,Needs,Yes,Monthly gym membership
+TXN0676,2026-12-19 00:00:00,December,12,2026,Credit Card,Withdrawal,Shopping,Clothing,H&M,Credit Card,43.74,Expense,Wants,No,Variable transaction
+TXN0677,2026-12-20 00:00:00,December,12,2026,Checking,Withdrawal,Debt Payment,Credit Card Payment,Credit Card Payment,Bank Transfer,581.08,Expense,Needs,Yes,Monthly credit card payment
+TXN0678,2026-12-21 00:00:00,December,12,2026,Credit Card,Withdrawal,Subscriptions,Streaming,StreamFlix,Credit Card,21.39,Expense,Wants,Yes,Monthly streaming subscription
+TXN0679,2026-12-21 00:00:00,December,12,2026,Credit Card,Withdrawal,Dining Out,Fast Food,McDonald's,Credit Card,16.34,Expense,Wants,No,Variable transaction
+TXN0680,2026-12-22 00:00:00,December,12,2026,Credit Card,Withdrawal,Groceries,Household Supplies,Target,Credit Card,66.44,Expense,Needs,No,Variable transaction
+TXN0681,2026-12-22 00:00:00,December,12,2026,Credit Card,Deposit,Refund,Cash Back,Credit Card Rewards,Credit Card,104.79,Income,Income,No,Variable income or refund
+TXN0682,2026-12-23 00:00:00,December,12,2026,Checking,Withdrawal,Utilities,Electric,Electric Utility,Bank Transfer,86.7,Expense,Needs,Yes,Monthly electric bill
+TXN0683,2026-12-23 00:00:00,December,12,2026,Savings,Withdrawal,Savings,Emergency Fund,Savings Transfer,Bank Transfer,471.84,Expense,Savings,Yes,Monthly savings transfer
+TXN0684,2026-12-23 00:00:00,December,12,2026,Checking,Withdrawal,Shopping,Electronics,Best Buy,Digital Wallet,82.09,Expense,Wants,No,Variable transaction
+TXN0685,2026-12-23 00:00:00,December,12,2026,Checking,Withdrawal,Transportation,Rideshare,Lyft,Bank Transfer,26.59,Expense,Needs,No,Variable transaction
+TXN0686,2026-12-23 00:00:00,December,12,2026,Credit Card,Withdrawal,Dining Out,Fast Food,Chipotle,Credit Card,20.77,Expense,Wants,No,Variable transaction
+TXN0687,2026-12-24 00:00:00,December,12,2026,Credit Card,Withdrawal,Dining Out,Coffee,Dunkin,Credit Card,9.54,Expense,Wants,No,Variable transaction
+TXN0688,2026-12-25 00:00:00,December,12,2026,Checking,Withdrawal,Health,Doctor,Clinic,Debit Card,91.37,Expense,Needs,No,Variable transaction
+TXN0689,2026-12-25 00:00:00,December,12,2026,Checking,Withdrawal,Shopping,Electronics,Apple,Debit Card,691.57,Expense,Wants,No,Variable transaction
+TXN0690,2026-12-27 00:00:00,December,12,2026,Checking,Withdrawal,Groceries,Groceries,Costco,Debit Card,129.32,Expense,Needs,No,Variable transaction
+TXN0691,2026-12-28 00:00:00,December,12,2026,Credit Card,Withdrawal,Utilities,Internet,Internet Provider,Credit Card,78.28,Expense,Needs,Yes,Monthly internet bill
+TXN0692,2026-12-28 00:00:00,December,12,2026,Credit Card,Withdrawal,Shopping,Clothing,H&M,Credit Card,95.88,Expense,Wants,No,Variable transaction
+TXN0693,2026-12-28 00:00:00,December,12,2026,Checking,Withdrawal,Groceries,Groceries,Costco,Debit Card,66.51,Expense,Needs,No,Variable transaction
+TXN0694,2026-12-29 00:00:00,December,12,2026,Credit Card,Withdrawal,Shopping,Personal Items,Target,Credit Card,25.14,Expense,Wants,No,Variable transaction
+TXN0695,2026-12-30 00:00:00,December,12,2026,Checking,Withdrawal,Shopping,Clothing,Nike,Bank Transfer,147.99,Expense,Wants,No,Variable transaction
+TXN0696,2026-12-30 00:00:00,December,12,2026,Checking,Withdrawal,Shopping,Personal Items,CVS,Bank Transfer,24.18,Expense,Wants,No,Variable transaction
+TXN0697,2026-12-30 00:00:00,December,12,2026,Credit Card,Withdrawal,Entertainment,Movies,Online Rental,Credit Card,33.99,Expense,Wants,No,Variable transaction
+TXN0698,2026-12-31 00:00:00,December,12,2026,Checking,Withdrawal,Dining Out,Restaurant,Sushi Spot,Debit Card,20.79,Expense,Wants,No,Variable transaction
+TXN0699,2026-12-31 00:00:00,December,12,2026,Checking,Withdrawal,Transportation,Rideshare,Uber,Cash,44.48,Expense,Needs,No,Variable transaction
+TXN0700,2026-12-31 00:00:00,December,12,2026,Checking,Withdrawal,Shopping,Clothing,Nike,Debit Card,141.35,Expense,Wants,No,Variable transaction
